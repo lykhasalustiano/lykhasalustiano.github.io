@@ -1,0 +1,465 @@
+2024-08-15 22:26:19 - Active Window Tracker: 0:00:04.002905 seconds
+2024-08-15 22:26:20 - appdev(1).py - Portfolio-img - Visual Studio Code: 0:00:01.001371 seconds
+2024-08-15 22:26:26 - Active Window Tracker: 0:00:06.003456 seconds
+2024-08-15 22:26:30 - (294) Responsive Contact Us Page in HTML and CSS - YouTube - Google Chrome: 0:00:04.003702 seconds
+2024-08-15 22:26:35 - Active Window Tracker: 0:00:05.009362 seconds
+2024-08-15 22:26:41 - SUPER PSYCHO LOVE |MMV| MULTIMALES - YouTube - Google Chrome: 0:00:06.006237 seconds
+2024-08-15 22:26:44 - Portfolio Design For Desktop - Google Chrome: 0:00:03.005047 seconds
+2024-08-15 22:26:47 - (294) Responsive Contact Us Page in HTML and CSS - YouTube - Google Chrome: 0:00:03.001076 seconds
+2024-08-15 22:26:51 - Portfolio � Figma - Google Chrome: 0:00:04.002438 seconds
+2024-08-15 22:26:52 - : 0:00:01.000928 seconds
+2024-08-15 22:26:53 - appdev(1).py - Portfolio-img - Visual Studio Code: 0:00:01.002126 seconds
+2024-08-15 22:26:59 - Portfolio � Figma - Google Chrome: 0:00:06.036778 seconds
+2024-08-15 22:27:00 - (294) Responsive Contact Us Page in HTML and CSS - YouTube - Google Chrome: 0:00:01.003657 seconds
+2024-08-15 22:28:32 - appdev(1).py - Portfolio-img - Visual Studio Code: 0:00:01.000532 seconds
+2024-08-15 22:28:38 - Active Window Tracker: 0:00:06.004019 seconds
+2024-08-15 22:28:42 - Messenger - Google Chrome: 0:00:04.003438 seconds
+2024-08-15 22:29:38 - SUPER PSYCHO LOVE |MMV| MULTIMALES - YouTube - Google Chrome: 0:00:56.030751 seconds
+2024-08-15 22:30:28 - Active Window Tracker: 0:00:50.032212 seconds
+2024-08-15 22:30:31 - Little Mix - Woman Like Me (Lyrics) ft. Nicki Minaj - YouTube - Google Chrome: 0:00:03.002741 seconds
+2024-08-15 22:30:41 - Active Window Tracker: 0:00:10.006727 seconds
+2024-08-15 22:30:49 - Little Mix - Woman Like Me (Lyrics) ft. Nicki Minaj - YouTube - Google Chrome: 0:00:08.006148 seconds
+2024-08-15 22:30:53 - appdev(1).py - Portfolio-img - Visual Studio Code: 0:00:04.003410 seconds
+2024-08-15 22:31:53 - Little Mix - Woman Like Me (Lyrics) ft. Nicki Minaj - YouTube - Google Chrome: 0:01:00.030852 seconds
+2024-08-15 22:31:58 - appdev(1).py - Portfolio-img - Visual Studio Code: 0:00:05.004452 seconds
+2024-08-15 22:32:44 - Messenger - Google Chrome: 0:00:46.025403 seconds
+2024-08-15 22:33:02 - Active Window Tracker: 0:00:17.015649 seconds
+2024-08-15 22:33:05 - appdev(1).py - Portfolio-img - Visual Studio Code: 0:00:03.002386 seconds
+2024-08-15 22:33:09 - Messenger - Google Chrome: 0:00:04.001261 seconds
+2024-08-15 22:42:50 - appdev(1).py - Portfolio-img - Visual Studio Code: 0:00:01.000536 seconds
+2024-08-15 22:42:55 - Active Window Tracker: 0:00:05.003392 seconds
+2024-08-15 22:42:56 - appdev(1).py - Portfolio-img - Visual Studio Code: 0:00:01.000960 seconds
+2024-08-15 22:43:01 - Active Window Tracker: 0:00:05.004468 seconds
+2024-08-15 22:43:03 - Messenger - Google Chrome: 0:00:02.001901 seconds
+2024-08-15 22:43:06 - Active Window Tracker: 0:00:03.004235 seconds
+2024-08-15 22:43:09 - (295) Responsive Contact Us Page in HTML and CSS - YouTube - Google Chrome: 0:00:02.002527 seconds
+2024-08-15 22:43:13 - Active Window Tracker: 0:00:04.003632 seconds
+2024-08-15 22:43:16 - Portfolio Design For Desktop - Google Chrome: 0:00:03.003349 seconds
+2024-08-15 22:43:20 - Active Window Tracker: 0:00:04.004444 seconds
+2024-08-15 22:43:22 - Portfolio Design For Desktop - Google Chrome: 0:00:02.000587 seconds
+2024-08-15 22:43:26 - Downloads: 0:00:04.004053 seconds
+2024-08-15 22:43:28 - Portfolio Design For Desktop - Google Chrome: 0:00:02.003809 seconds
+2024-08-15 22:43:35 - Active Window Tracker: 0:00:07.007196 seconds
+2024-08-15 22:43:37 - (295) Responsive Contact Us Page in HTML and CSS - YouTube - Google Chrome: 0:00:02.005501 seconds
+2024-08-15 22:43:40 - Britney Spears - Circus (Lyrics) - YouTube - Google Chrome: 0:00:03.001950 seconds
+2024-08-15 22:43:49 - Messenger - Google Chrome: 0:00:09.005785 seconds
+2024-08-15 22:43:51 - (295) Responsive Contact Us Page in HTML and CSS - YouTube - Google Chrome: 0:00:02.007323 seconds
+2024-08-15 22:43:54 - Portfolio Design For Desktop - Google Chrome: 0:00:03.006284 seconds
+2024-08-15 22:43:56 - Britney Spears - Circus (Lyrics) - YouTube - Google Chrome: 0:00:02.003437 seconds
+2024-08-15 22:43:58 - (295) Responsive Contact Us Page in HTML and CSS - YouTube - Google Chrome: 0:00:02.001529 seconds
+2024-08-15 22:44:01 - Messenger - Google Chrome: 0:00:03.004175 seconds
+2024-08-15 22:44:03 - appdev(1).py - Portfolio-img - Visual Studio Code: 0:00:02.001192 seconds
+2024-08-15 22:44:10 - Messenger - Google Chrome: 0:00:07.007417 seconds
+2024-08-15 22:44:18 - Britney Spears - Circus (Lyrics) - YouTube - Google Chrome: 0:00:08.005921 seconds
+2024-08-15 22:47:53 - Fall Out Boy - Immortals (from Big Hero 6) - YouTube - Google Chrome: 0:03:35.186000 seconds
+2024-08-15 22:52:01 - She's Crazy but She's Mine - YouTube - Google Chrome: 0:04:08.111924 seconds
+2024-08-15 22:54:00 - Turn Me On | MEP - YouTube - Google Chrome: 0:01:59.053751 seconds
+2024-08-15 22:54:04 - Portfolio Design For Desktop - Google Chrome: 0:00:04.001736 seconds
+2024-08-15 22:54:07 - (295) Responsive Contact Us Page in HTML and CSS - YouTube - Google Chrome: 0:00:03.001143 seconds
+2024-08-15 22:54:10 - Portfolio � Figma - Google Chrome: 0:00:03.000963 seconds
+2024-08-15 22:54:12 - Active Window Tracker: 0:00:02.001933 seconds
+2024-08-15 22:54:13 - : 0:00:01.001116 seconds
+2024-08-15 22:54:14 - ShareWindow: 0:00:01.004401 seconds
+2024-08-15 22:54:17 - : 0:00:03.001778 seconds
+2024-08-15 22:54:26 - Active Window Tracker: 0:00:09.005526 seconds
+2024-08-15 22:54:27 - ShareWindow: 0:00:01.001565 seconds
+2024-08-15 22:54:30 - PC Manager: 0:00:03.002090 seconds
+2024-08-15 22:54:32 - Active Window Tracker: 0:00:02.002257 seconds
+2024-08-15 22:54:33 - : 0:00:01.001251 seconds
+2024-08-15 23:05:26 - appdev(2).py - Portfolio-img - Visual Studio Code: 0:00:01.001303 seconds
+2024-08-15 23:05:28 - Active Window Tracker: 0:00:02.003314 seconds
+2024-08-15 23:05:36 - Messenger - Google Chrome: 0:00:08.008927 seconds
+2024-08-15 23:05:44 - Active Window Tracker: 0:00:08.006346 seconds
+2024-08-15 23:05:48 - Messenger - Google Chrome: 0:00:04.005129 seconds
+2024-08-15 23:05:58 - M�neskin - I WANNA BE YOUR SLAVE (Lyrics/Testo) Eurovision 2021 - YouTube - Google Chrome: 0:00:10.005902 seconds
+2024-08-15 23:05:59 - (1) Messenger - Google Chrome: 0:00:01.000604 seconds
+2024-08-15 23:06:32 - Messenger - Google Chrome: 0:00:33.019574 seconds
+2024-08-15 23:06:33 - Fall Out Boy - Immortals (from Big Hero 6) - YouTube - Google Chrome: 0:00:01.001247 seconds
+2024-08-15 23:06:34 - Messenger - Google Chrome: 0:00:01.004817 seconds
+2024-08-15 23:06:52 - Fall Out Boy - Immortals (from Big Hero 6) - YouTube - Google Chrome: 0:00:18.007540 seconds
+2024-08-15 23:06:53 - : 0:00:01.001117 seconds
+2024-08-15 23:06:57 - appdev(2).py - Portfolio-img - Visual Studio Code: 0:00:04.001947 seconds
+2024-08-15 23:07:00 - Fall Out Boy - Immortals (from Big Hero 6) - YouTube - Google Chrome: 0:00:03.002496 seconds
+2024-08-15 23:07:04 - Active Window Tracker: 0:00:04.003719 seconds
+2024-08-15 23:07:21 - Fall Out Boy - Immortals (from Big Hero 6) - YouTube - Google Chrome: 0:00:17.008929 seconds
+2024-08-15 23:07:39 - New Tab - Google Chrome: 0:00:18.008971 seconds
+2024-08-15 23:07:49 - SEVDALIZA - ALIBI (Lyrics) FT. PABLLO VITTAR & YSEULT Rosa que linda eres - YouTube - Google Chrome: 0:00:10.008004 seconds
+2024-08-15 23:08:14 - mangazone - Google Search - Google Chrome: 0:00:25.012130 seconds
+2024-08-15 23:08:19 - Messenger - Google Chrome: 0:00:05.004195 seconds
+2024-08-15 23:08:27 - SEVDALIZA - ALIBI (Lyrics) FT. PABLLO VITTAR & YSEULT Rosa que linda eres - YouTube - Google Chrome: 0:00:08.003565 seconds
+2024-08-15 23:08:28 - appdev(2).py - Portfolio-img - Visual Studio Code: 0:00:01.001386 seconds
+2024-08-15 23:08:32 - Downloads: 0:00:04.001916 seconds
+2024-08-15 23:08:35 - Active Window Tracker: 0:00:03.003796 seconds
+2024-08-15 23:08:38 - SEVDALIZA - ALIBI (Lyrics) FT. PABLLO VITTAR & YSEULT Rosa que linda eres - YouTube - Google Chrome: 0:00:03.001127 seconds
+2024-08-15 23:08:41 - Downloads: 0:00:03.002182 seconds
+2024-08-15 23:08:43 - appdev(2).py - Portfolio-img - Visual Studio Code: 0:00:02.004397 seconds
+2024-08-15 23:08:44 - : 0:00:01.000607 seconds
+2024-08-16 11:34:12 - appdev(2).py - Portfolio-img - Visual Studio Code: 0:00:01.001241 seconds
+2024-08-16 11:34:15 - Active Window Tracker: 0:00:03.003053 seconds
+2024-08-16 11:34:17 - (305) Nightcore play Dead (Lyrics) NEFFEX - YouTube - Google Chrome: 0:00:02.003201 seconds
+2024-08-16 11:34:22 - Active Window Tracker: 0:00:05.003831 seconds
+2024-08-16 11:34:27 - (305) Nightcore play Dead (Lyrics) NEFFEX - YouTube - Google Chrome: 0:00:05.004942 seconds
+2024-08-16 11:34:43 - Active Window Tracker: 0:00:16.010705 seconds
+2024-08-16 11:35:03 - Messenger - Google Chrome: 0:00:20.010053 seconds
+2024-08-16 11:35:15 - (305) Nightcore play Dead (Lyrics) NEFFEX - YouTube - Google Chrome: 0:00:12.006055 seconds
+2024-08-16 11:35:28 - (305) How many trending phonk you know? pt.1 #song #phonk #challenge #music - YouTube - Google Chrome: 0:00:13.007143 seconds
+2024-08-16 11:35:29 - : 0:00:01.004325 seconds
+2024-08-16 11:35:31 - Quick settings: 0:00:02.001280 seconds
+2024-08-16 11:35:37 - (305) How many trending phonk you know? pt.1 #song #phonk #challenge #music - YouTube - Google Chrome: 0:00:06.005615 seconds
+2024-08-16 11:35:39 - Quick settings: 0:00:02.001984 seconds
+2024-08-16 11:36:16 - (305) How many trending phonk you know? pt.1 #song #phonk #challenge #music - YouTube - Google Chrome: 0:00:37.025644 seconds
+2024-08-16 11:55:44 - appdev(1).py - Portfolio-img - Visual Studio Code: 0:00:01.001571 seconds
+2024-08-16 11:55:54 - Active Window Tracker: 0:00:10.011580 seconds
+2024-08-16 11:56:06 - (305) antihero who just had a REALLY bad day - YouTube - Google Chrome: 0:00:12.011778 seconds
+2024-08-16 11:57:11 - (305) Flashing My Boyfriend In The Middle Of An Argument #shorts - YouTube - Google Chrome: 0:01:05.045131 seconds
+2024-08-16 11:59:11 - (305) If SharkTank Was ASIAN - YouTube - Google Chrome: 0:01:59.103219 seconds
+2024-08-16 11:59:14 - (305) YouTube - Google Chrome: 0:00:03.002652 seconds
+2024-08-16 19:27:58 - Active Window Tracker: 0:00:05.005654 seconds
+2024-08-16 19:27:59 - Portfolio � Figma - Google Chrome: 0:00:01.000665 seconds
+2024-08-16 19:28:04 - Messenger - Google Chrome: 0:00:05.003048 seconds
+2024-08-16 19:34:24 - appdev(2).py - Portfolio-img - Visual Studio Code: 0:00:01.010366 seconds
+2024-08-16 19:34:30 - Active Window Tracker: 0:00:06.005567 seconds
+2024-08-16 19:34:35 - Messenger - Google Chrome: 0:00:05.003574 seconds
+2024-08-16 19:35:00 - (319) POV: you're hot and single ✧₊⁺ - YouTube - Google Chrome: 0:00:25.011554 seconds
+2024-08-16 19:35:05 - Active Window Tracker: 0:00:05.004232 seconds
+2024-08-16 19:35:12 - (319) POV: you're hot and single ✧₊⁺ - YouTube - Google Chrome: 0:00:07.005065 seconds
+2024-08-16 19:35:15 - Portfolio – Figma - Google Chrome: 0:00:03.003244 seconds
+2024-08-16 19:35:18 - Messenger - Google Chrome: 0:00:03.002071 seconds
+2024-08-16 19:35:31 - (319) POV: you're hot and single ✧₊⁺ - YouTube - Google Chrome: 0:00:13.007433 seconds
+2024-08-16 19:35:38 - Search: 0:00:07.005221 seconds
+2024-08-16 19:35:39 - : 0:00:01.002331 seconds
+2024-08-16 19:35:40 - Command Prompt: 0:00:01.001475 seconds
+2024-08-16 19:35:49 - (319) POV: you're hot and single ✧₊⁺ - YouTube - Google Chrome: 0:00:09.007790 seconds
+2024-08-16 19:35:52 - : 0:00:03.002025 seconds
+2024-08-16 19:36:04 - (319) POV: you're hot and single ✧₊⁺ - YouTube - Google Chrome: 0:00:12.010836 seconds
+2024-08-16 19:36:10 - ChatGPT - Google Chrome: 0:00:06.003111 seconds
+2024-08-16 19:36:13 - (319) YouTube - Google Chrome: 0:00:03.006322 seconds
+2024-08-16 19:36:15 - Portfolio – Figma - Google Chrome: 0:00:02.001282 seconds
+2024-08-16 19:36:18 - Messenger - Google Chrome: 0:00:03.004617 seconds
+2024-08-16 19:36:20 - (319) YouTube - Google Chrome: 0:00:02.005899 seconds
+2024-08-16 19:36:21 - Portfolio – Figma - Google Chrome: 0:00:01.000595 seconds
+2024-08-16 19:36:33 - Messenger - Google Chrome: 0:00:12.006763 seconds
+2024-08-16 19:36:34 - Portfolio – Figma - Google Chrome: 0:00:01.001168 seconds
+2024-08-16 19:36:35 - (319) YouTube - Google Chrome: 0:00:01.001312 seconds
+2024-08-16 19:36:37 - Portfolio – Figma - Google Chrome: 0:00:02.000803 seconds
+2024-08-16 19:36:38 - (319) YouTube - Google Chrome: 0:00:01.002628 seconds
+2024-08-16 19:36:42 - Messenger - Google Chrome: 0:00:04.002472 seconds
+2024-08-16 19:36:47 - (319) YouTube - Google Chrome: 0:00:05.004285 seconds
+2024-08-16 19:36:48 - YouTube - Google Chrome: 0:00:01.001424 seconds
+2024-08-16 19:36:52 - appdev(2).py - Portfolio-img - Visual Studio Code: 0:00:04.001090 seconds
+2024-08-16 19:36:55 - contact.html - Portfolio-img - Visual Studio Code: 0:00:03.001344 seconds
+2024-08-16 19:36:57 - hobbies.html - Portfolio-img - Visual Studio Code: 0:00:02.001538 seconds
+2024-08-16 19:36:59 - about me.html - Portfolio-img - Visual Studio Code: 0:00:02.004237 seconds
+2024-08-16 19:37:03 - portfolio.html - Portfolio-img - Visual Studio Code: 0:00:04.005045 seconds
+2024-08-16 19:37:06 - YouTube - Google Chrome: 0:00:03.007254 seconds
+2024-08-16 19:37:07 - ChatGPT - Google Chrome: 0:00:01.000946 seconds
+2024-08-16 19:37:10 - Portfolio – Figma - Google Chrome: 0:00:03.001800 seconds
+2024-08-16 19:37:11 - Messenger - Google Chrome: 0:00:01.001659 seconds
+2024-08-16 19:40:10 - Portfolio – Figma - Google Chrome: 0:02:59.090310 seconds
+2024-08-16 19:40:11 - (1) Messenger - Google Chrome: 0:00:01.003788 seconds
+2024-08-16 19:40:31 - Messenger - Google Chrome: 0:00:20.009863 seconds
+2024-08-16 19:40:33 - ChatGPT - Google Chrome: 0:00:02.006528 seconds
+2024-08-16 19:40:36 - Active Window Tracker: 0:00:03.012449 seconds
+2024-08-16 19:40:40 - Messenger - Google Chrome: 0:00:04.001721 seconds
+2024-08-16 19:40:41 - YouTube - Google Chrome: 0:00:01.001986 seconds
+2024-08-16 19:40:42 - (321) YouTube - Google Chrome: 0:00:01.001648 seconds
+2024-08-16 19:40:45 - Portfolio – Figma - Google Chrome: 0:00:03.006151 seconds
+2024-08-16 19:40:47 - Messenger - Google Chrome: 0:00:02.001051 seconds
+2024-08-16 19:41:01 - (321) YouTube - Google Chrome: 0:00:14.011959 seconds
+2024-08-16 19:41:02 - (321) On My Own (Lyrics) - Ashes Remain - YouTube - Google Chrome: 0:00:01.003546 seconds
+2024-08-16 19:41:07 - Portfolio – Figma - Google Chrome: 0:00:05.002406 seconds
+2024-08-16 19:41:13 - Messenger - Google Chrome: 0:00:06.038846 seconds
+2024-08-16 19:41:22 - : 0:00:09.004999 seconds
+2024-08-16 19:41:23 - PC Manager: 0:00:01.001889 seconds
+2024-08-16 19:41:24 - HWChangelog: 0:00:01.001296 seconds
+2024-08-16 19:41:25 - PC Manager: 0:00:01.000852 seconds
+2024-08-16 19:41:29 - : 0:00:04.003075 seconds
+2024-08-16 19:41:31 - Search Microsoft Copilot: Your everyday AI companion: 0:00:02.000804 seconds
+2024-08-16 19:41:33 - PC Manager: 0:00:02.001307 seconds
+2024-08-16 19:41:40 - Messenger - Google Chrome: 0:00:07.006198 seconds
+2024-08-16 19:41:48 - New tab - Personal - Microsoft​ Edge: 0:00:08.003685 seconds
+2024-08-16 19:41:55 - Messenger - Google Chrome: 0:00:07.007913 seconds
+2024-08-16 19:41:58 - Portfolio – Figma - Google Chrome: 0:00:03.003027 seconds
+2024-08-16 19:42:02 - (321) On My Own (Lyrics) - Ashes Remain - YouTube - Google Chrome: 0:00:04.002487 seconds
+2024-08-16 19:42:05 - Portfolio – Figma - Google Chrome: 0:00:03.005272 seconds
+2024-08-16 19:42:09 - (321) On My Own (Lyrics) - Ashes Remain - YouTube - Google Chrome: 0:00:04.001751 seconds
+2024-08-16 19:42:17 - portfolio.html - Portfolio-img - Visual Studio Code: 0:00:08.004396 seconds
+2024-08-16 19:42:35 - (321) On My Own (Lyrics) - Ashes Remain - YouTube - Google Chrome: 0:00:18.010313 seconds
+2024-08-16 19:42:36 - Portfolio – Figma - Google Chrome: 0:00:01.004201 seconds
+2024-08-16 19:42:38 - Messenger - Google Chrome: 0:00:02.005577 seconds
+2024-08-16 19:42:40 - portfolio.html - Portfolio-img - Visual Studio Code: 0:00:02.001236 seconds
+2024-08-16 19:42:43 - Active Window Tracker: 0:00:03.001849 seconds
+2024-08-16 19:42:45 - portfolio.html - Portfolio-img - Visual Studio Code: 0:00:02.004900 seconds
+2024-08-16 19:42:48 - Active Window Tracker: 0:00:03.006420 seconds
+2024-08-16 19:42:54 - Messenger - Google Chrome: 0:00:06.006660 seconds
+2024-08-16 19:42:57 - Portfolio – Figma - Google Chrome: 0:00:03.006019 seconds
+2024-08-16 19:43:20 - (321) On My Own (Lyrics) - Ashes Remain - YouTube - Google Chrome: 0:00:23.012299 seconds
+2024-08-16 19:43:23 - Quick settings: 0:00:03.003067 seconds
+2024-08-16 19:43:30 - : 0:00:07.003408 seconds
+2024-08-16 19:43:31 - Messenger - Google Chrome: 0:00:01.004976 seconds
+2024-08-16 19:43:36 - Portfolio – Figma - Google Chrome: 0:00:05.002806 seconds
+2024-08-16 19:44:03 - (321) On My Own (Lyrics) - Ashes Remain - YouTube - Google Chrome: 0:00:27.010867 seconds
+2024-08-16 19:44:07 - Messenger - Google Chrome: 0:00:04.001490 seconds
+2024-08-16 19:44:11 - (321) On My Own (Lyrics) - Ashes Remain - YouTube - Google Chrome: 0:00:04.004703 seconds
+2024-08-16 19:44:12 - Messenger - Google Chrome: 0:00:01.001144 seconds
+2024-08-16 19:44:14 - Portfolio – Figma - Google Chrome: 0:00:02.002205 seconds
+2024-08-16 19:44:15 - (321) On My Own (Lyrics) - Ashes Remain - YouTube - Google Chrome: 0:00:01.000481 seconds
+2024-08-16 19:44:17 - Portfolio – Figma - Google Chrome: 0:00:02.001781 seconds
+2024-08-16 19:44:20 - Messenger - Google Chrome: 0:00:03.002602 seconds
+2024-08-16 19:44:22 - Portfolio – Figma - Google Chrome: 0:00:02.001274 seconds
+2024-08-16 19:44:25 - (321) On My Own (Lyrics) - Ashes Remain - YouTube - Google Chrome: 0:00:03.004950 seconds
+2024-08-16 19:44:27 - Portfolio – Figma - Google Chrome: 0:00:02.000528 seconds
+2024-08-16 19:44:29 - Messenger - Google Chrome: 0:00:02.000884 seconds
+2024-08-16 19:44:31 - Portfolio – Figma - Google Chrome: 0:00:02.001738 seconds
+2024-08-16 19:44:33 - (321) On My Own (Lyrics) - Ashes Remain - YouTube - Google Chrome: 0:00:02.004055 seconds
+2024-08-16 19:44:35 - Portfolio – Figma - Google Chrome: 0:00:02.005451 seconds
+2024-08-16 19:44:37 - portfolio.html - Portfolio-img - Visual Studio Code: 0:00:02.005086 seconds
+2024-08-16 19:44:39 - Portfolio – Figma - Google Chrome: 0:00:02.002295 seconds
+2024-08-16 19:44:41 - (321) On My Own (Lyrics) - Ashes Remain - YouTube - Google Chrome: 0:00:02.001117 seconds
+2024-08-16 19:44:43 - Messenger - Google Chrome: 0:00:02.000758 seconds
+2024-08-16 19:44:47 - Portfolio – Figma - Google Chrome: 0:00:04.002545 seconds
+2024-08-16 19:44:48 - Active Window Tracker: 0:00:01.005202 seconds
+2024-08-16 19:44:51 - Portfolio – Figma - Google Chrome: 0:00:03.001486 seconds
+2024-08-16 19:44:57 - (321) On My Own (Lyrics) - Ashes Remain - YouTube - Google Chrome: 0:00:06.004116 seconds
+2024-08-16 19:45:02 - portfolio.html - Portfolio-img - Visual Studio Code: 0:00:05.006799 seconds
+2024-08-16 19:45:05 - (321) On My Own (Lyrics) - Ashes Remain - YouTube - Google Chrome: 0:00:03.001398 seconds
+2024-08-16 20:57:02 - appdev(2).py - Portfolio-img - Visual Studio Code: 0:00:01.001400 seconds
+2024-08-16 20:57:09 - Active Window Tracker: 0:00:07.005081 seconds
+2024-08-16 20:57:13 - YouTube - Google Chrome: 0:00:04.005352 seconds
+2024-08-16 20:57:16 - Active Window Tracker: 0:00:03.004116 seconds
+2024-08-16 20:57:18 - 3rd Year: 0:00:02.001968 seconds
+2024-08-16 20:57:27 - Active Window Tracker: 0:00:09.007358 seconds
+2024-08-16 20:57:29 - Messenger - Google Chrome: 0:00:02.001508 seconds
+2024-08-16 20:57:34 - YouTube - Google Chrome: 0:00:05.002931 seconds
+2024-08-16 20:57:39 - Portfolio – Figma - Google Chrome: 0:00:05.004056 seconds
+2024-08-16 20:57:42 - Portfolio Design For Desktop - Google Chrome: 0:00:03.001846 seconds
+2024-08-16 20:57:48 - Portfolio – Figma - Google Chrome: 0:00:06.003992 seconds
+2024-08-16 20:57:59 - YouTube - Google Chrome: 0:00:11.007645 seconds
+2024-08-16 20:58:00 - : 0:00:01.000938 seconds
+2024-08-16 20:58:25 - Quick settings: 0:00:25.015043 seconds
+2024-08-16 20:58:34 - YouTube - Google Chrome: 0:00:09.006198 seconds
+2024-08-16 20:58:40 - Active Window Tracker: 0:00:06.004720 seconds
+2024-08-16 20:58:48 - YouTube - Google Chrome: 0:00:08.005973 seconds
+2024-08-16 20:58:51 - Quick settings: 0:00:03.001175 seconds
+2024-08-16 20:58:59 - : 0:00:08.005340 seconds
+2024-08-16 20:59:11 - YouTube - Google Chrome: 0:00:12.008256 seconds
+2024-08-16 20:59:17 - Messenger - Google Chrome: 0:00:06.003357 seconds
+2024-08-16 20:59:20 - YouTube - Google Chrome: 0:00:02.001461 seconds
+2024-08-16 20:59:22 - Messenger - Google Chrome: 0:00:02.001444 seconds
+2024-08-16 20:59:24 - ChatGPT - Google Chrome: 0:00:02.001094 seconds
+2024-08-16 20:59:26 - YouTube - Google Chrome: 0:00:02.001714 seconds
+2024-08-16 20:59:28 - Portfolio – Figma - Google Chrome: 0:00:02.001438 seconds
+2024-08-16 20:59:30 - Portfolio Design For Desktop - Google Chrome: 0:00:02.001891 seconds
+2024-08-16 20:59:42 - Messenger - Google Chrome: 0:00:12.006970 seconds
+2024-08-16 21:00:02 - YouTube - Google Chrome: 0:00:20.011055 seconds
+2024-08-16 21:00:12 - Hypnotic AMV - YouTube - Google Chrome: 0:00:10.005666 seconds
+2024-08-16 21:00:20 - appdev(2).py - Portfolio-img - Visual Studio Code: 0:00:08.005002 seconds
+2024-08-16 21:00:24 - Hypnotic AMV - YouTube - Google Chrome: 0:00:04.005886 seconds
+2024-08-16 21:00:25 - Messenger - Google Chrome: 0:00:01.000810 seconds
+2024-08-16 21:00:27 - ChatGPT - Google Chrome: 0:00:02.001593 seconds
+2024-08-16 21:00:50 - Hypnotic AMV - YouTube - Google Chrome: 0:00:23.017455 seconds
+2024-08-16 21:00:52 - appdev(2).py - Portfolio-img - Visual Studio Code: 0:00:02.002001 seconds
+2024-08-16 21:00:54 - Hypnotic AMV - YouTube - Google Chrome: 0:00:02.001347 seconds
+2024-08-16 21:00:57 - Messenger - Google Chrome: 0:00:03.003258 seconds
+2024-08-16 21:01:16 - Hypnotic AMV - YouTube - Google Chrome: 0:00:19.010959 seconds
+2024-08-16 21:01:23 - YouTube - Google Chrome: 0:00:07.018518 seconds
+2024-08-16 21:02:03 - Hypnotic AMV - YouTube - Google Chrome: 0:00:40.031904 seconds
+2024-08-16 21:06:00 - black butler AMV - gasoline - YouTube - Google Chrome: 0:03:57.163423 seconds
+2024-08-16 21:09:39 - AMV || Ainsi Bas La Vida (Lyrics) - YouTube - Google Chrome: 0:03:39.190595 seconds
+2024-08-16 21:12:05 - Nightcore - PRETTY PLEASE - (Lyrics) - YouTube - Google Chrome: 0:02:26.073792 seconds
+2024-08-16 21:14:02 - Nightcore - Figure you out - (Lyrics) - YouTube - Google Chrome: 0:01:57.067137 seconds
+2024-08-16 21:14:36 - 「Nightcore」→ NEFFEX - Rumors (Lyrics) - YouTube - Google Chrome: 0:00:34.017280 seconds
+2024-08-16 21:14:47 - Messenger - Google Chrome: 0:00:11.006669 seconds
+2024-08-16 21:14:56 - Untitled - Google Chrome: 0:00:09.004937 seconds
+2024-08-16 21:15:00 - Messenger - Google Chrome: 0:00:04.001454 seconds
+2024-08-16 21:15:08 - Untitled - Google Chrome: 0:00:08.005635 seconds
+2024-08-16 21:15:16 - Recent download history: 0:00:08.004975 seconds
+2024-08-16 21:15:23 - Messenger - Google Chrome: 0:00:07.004362 seconds
+2024-08-16 21:15:29 - Home: 0:00:06.003303 seconds
+2024-08-16 21:15:41 - Downloads: 0:00:12.006036 seconds
+2024-08-16 21:15:42 - : 0:00:01.001098 seconds
+2024-08-16 21:15:44 - Opening - Word (Unlicensed Product): 0:00:02.001603 seconds
+2024-08-16 21:16:01 - Lec1_prelim_automata (1) (Protected View) - Word (Unlicensed Product): 0:00:17.009455 seconds
+2024-08-16 21:16:04 - Downloads: 0:00:03.001078 seconds
+2024-08-16 21:16:05 - : 0:00:01.000786 seconds
+2024-08-16 21:16:07 - Opening - Word (Unlicensed Product): 0:00:02.000764 seconds
+2024-08-16 21:16:21 - automata_lec2_prelim1 (Protected View) - Word (Unlicensed Product): 0:00:14.017799 seconds
+2024-08-16 21:16:23 - Product License Expired: 0:00:02.002432 seconds
+2024-08-16 21:17:16 - automata_lec2_prelim1 (Protected View) - Word (Unlicensed Product): 0:00:53.030847 seconds
+2024-08-16 21:17:19 - Downloads: 0:00:03.003835 seconds
+2024-08-16 21:17:23 - Recent download history: 0:00:04.003660 seconds
+2024-08-16 21:17:26 - 「Nightcore」→ NEFFEX - Rumors (Lyrics) - YouTube - Google Chrome: 0:00:03.001645 seconds
+2024-08-16 21:17:28 - Messenger - Google Chrome: 0:00:02.000872 seconds
+2024-08-16 21:17:31 - 「Nightcore」→ NEFFEX - Rumors (Lyrics) - YouTube - Google Chrome: 0:00:03.001527 seconds
+2024-08-16 21:17:35 - Portfolio – Figma - Google Chrome: 0:00:03.001281 seconds
+2024-08-16 21:17:37 - Portfolio Design For Desktop - Google Chrome: 0:00:02.001079 seconds
+2024-08-16 21:17:41 - Portfolio – Figma - Google Chrome: 0:00:04.002301 seconds
+2024-08-16 21:18:25 - 「Nightcore」→ NEFFEX - Rumors (Lyrics) - YouTube - Google Chrome: 0:00:44.021699 seconds
+2024-08-16 21:18:30 - ChatGPT - Google Chrome: 0:00:05.003436 seconds
+2024-08-16 21:18:31 - Active Window Tracker: 0:00:01.000692 seconds
+2024-08-17 13:04:13 - Active Window Tracker: 0:00:03.002562 seconds
+2024-08-17 13:04:15 - appdev(2).py - Portfolio-img - Visual Studio Code: 0:00:02.001284 seconds
+2024-08-17 13:04:19 - New Tab - Google Chrome: 0:00:04.003277 seconds
+2024-08-17 13:04:20 - appdev(2).py - Portfolio-img - Visual Studio Code: 0:00:01.001730 seconds
+2024-08-17 13:04:22 - New Tab - Google Chrome: 0:00:02.004518 seconds
+2024-08-17 13:04:23 - Portfolio Design For Desktop - Google Chrome: 0:00:01.001506 seconds
+2024-08-17 13:04:25 - Portfolio – Figma - Google Chrome: 0:00:02.003740 seconds
+2024-08-17 13:04:26 - Portfolio Design For Desktop - Google Chrome: 0:00:01.002150 seconds
+2024-08-17 13:04:27 - New Tab - Google Chrome: 0:00:01.002837 seconds
+2024-08-17 13:04:28 - Portfolio Design For Desktop - Google Chrome: 0:00:01.001115 seconds
+2024-08-17 13:04:29 - Portfolio – Figma - Google Chrome: 0:00:01.003330 seconds
+2024-08-17 13:04:30 - New Tab - Google Chrome: 0:00:01.000916 seconds
+2024-08-17 13:04:31 - Portfolio Design For Desktop - Google Chrome: 0:00:01.001569 seconds
+2024-08-17 13:04:36 - Portfolio – Figma - Google Chrome: 0:00:05.004089 seconds
+2024-08-17 13:04:56 - Active Window Tracker: 0:00:20.014992 seconds
+2024-08-17 13:05:01 - Portfolio – Figma - Google Chrome: 0:00:05.002046 seconds
+2024-08-17 13:05:02 - New Tab - Google Chrome: 0:00:01.004509 seconds
+2024-08-17 13:05:04 - Portfolio Design For Desktop - Google Chrome: 0:00:02.001790 seconds
+2024-08-17 13:05:06 - Portfolio – Figma - Google Chrome: 0:00:02.003210 seconds
+2024-08-17 13:05:07 - New Tab - Google Chrome: 0:00:01.004300 seconds
+2024-08-17 13:05:09 - Portfolio – Figma - Google Chrome: 0:00:02.002245 seconds
+2024-08-17 13:05:13 - Portfolio Design For Desktop - Google Chrome: 0:00:04.002340 seconds
+2024-08-17 14:55:10 - appdev(2).py - Portfolio-img - Visual Studio Code: 0:00:01.007490 seconds
+2024-08-17 15:07:41 - appdev(2).py - Portfolio-img - Visual Studio Code: 0:00:01.002606 seconds
+2024-08-17 15:07:42 - Active Window Tracker: 0:00:01.003671 seconds
+2024-08-17 15:07:53 - Portfolio – Figma - Google Chrome: 0:00:11.006426 seconds
+2024-08-17 15:07:55 - appdev(2).py - Portfolio-img - Visual Studio Code: 0:00:02.001228 seconds
+2024-08-17 15:07:59 - Portfolio – Figma - Google Chrome: 0:00:04.004275 seconds
+2024-08-17 15:08:00 - Applications Development - Google Chrome: 0:00:01.002803 seconds
+2024-08-17 15:08:02 - Portfolio Design For Desktop - Google Chrome: 0:00:02.007581 seconds
+2024-08-17 15:08:03 - 50 Gorgeous Color Schemes From Stunning Websites - Google Chrome: 0:00:01.002776 seconds
+2024-08-17 15:08:05 - Color Palette: #000000 #3E3636 #D72323 #F5EDED - Color Hunt - Google Chrome: 0:00:02.000712 seconds
+2024-08-17 15:08:14 - Active Window Tracker: 0:00:09.008358 seconds
+2024-08-17 15:08:27 - appdev(2).py - Portfolio-img - Visual Studio Code: 0:00:13.008512 seconds
+2024-08-17 15:51:50 - appdev(2).py - Portfolio-img - Visual Studio Code: 0:00:01.006842 seconds
+2024-08-17 15:52:22 - Active Window Tracker: 0:00:32.027760 seconds
+2024-08-17 15:52:23 - : 0:00:01.001870 seconds
+2024-08-17 15:52:25 - Active Window Tracker: 0:00:02.003304 seconds
+2024-08-17 15:52:27 - appdev(2).py - Portfolio-img - Visual Studio Code: 0:00:02.002780 seconds
+2024-08-17 15:52:31 - Task Manager: 0:00:04.005401 seconds
+2024-08-17 15:52:34 - appdev(2).py - Portfolio-img - Visual Studio Code: 0:00:03.003706 seconds
+2024-08-17 15:53:12 - Task Manager: 0:00:38.024195 seconds
+2024-08-17 15:53:23 - Quick settings: 0:00:11.007773 seconds
+2024-08-17 15:53:25 - appdev(2).py - Portfolio-img - Visual Studio Code: 0:00:02.002319 seconds
+2024-08-17 15:53:31 - Quick settings: 0:00:06.004043 seconds
+2024-08-17 15:53:33 - appdev(2).py - Portfolio-img - Visual Studio Code: 0:00:02.001612 seconds
+2024-08-17 15:56:21 - Task Manager: 0:02:48.099418 seconds
+2024-08-17 15:56:31 - appdev(2).py - Portfolio-img - Visual Studio Code: 0:00:10.004406 seconds
+2024-08-17 15:56:36 - : 0:00:05.006176 seconds
+2024-08-17 15:56:39 - Search: 0:00:03.005717 seconds
+2024-08-17 15:56:41 - : 0:00:02.004889 seconds
+2024-08-17 15:56:42 - Word (Unlicensed Product): 0:00:01.000203 seconds
+2024-08-17 15:56:45 - Accept the license agreement: 0:00:03.001104 seconds
+2024-08-17 15:56:47 - You're on the cutting edge: 0:00:02.004368 seconds
+2024-08-17 15:57:01 - Word Preview: 0:00:14.007514 seconds
+2024-08-17 15:57:05 - appdev(2).py - Portfolio-img - Visual Studio Code: 0:00:04.005271 seconds
+2024-08-17 15:57:07 - Search: 0:00:02.004648 seconds
+2024-08-17 15:57:08 - : 0:00:01.003171 seconds
+2024-08-17 15:57:09 - Opening - Excel (Unlicensed Product): 0:00:01.004595 seconds
+2024-08-17 15:57:11 - Excel (Unlicensed Product): 0:00:02.004656 seconds
+2024-08-17 15:57:12 - Excel Preview: 0:00:01.005135 seconds
+2024-08-17 15:57:18 - Book1 - Excel Preview: 0:00:06.005575 seconds
+2024-08-17 15:57:22 - : 0:00:03.005174 seconds
+2024-08-17 15:57:32 - appdev(2).py - Portfolio-img - Visual Studio Code: 0:00:10.009152 seconds
+2024-08-17 15:57:33 - : 0:00:01.006955 seconds
+2024-08-17 15:57:41 - Active Window Tracker: 0:00:08.008068 seconds
+2024-08-17 15:57:47 - appdev(2).py - Portfolio-img - Visual Studio Code: 0:00:06.002746 seconds
+2024-08-17 15:57:48 - : 0:00:01.005175 seconds
+2024-08-17 15:57:58 - New Tab - Google Chrome: 0:00:10.005225 seconds
+2024-08-17 15:58:03 - Active Window Tracker: 0:00:05.006959 seconds
+2024-08-17 15:58:06 - New Tab - Google Chrome: 0:00:03.004392 seconds
+2024-08-17 15:58:12 - YouTube - Google Chrome: 0:00:06.008718 seconds
+2024-08-17 15:58:29 - (340) YouTube - Google Chrome: 0:00:17.009600 seconds
+2024-08-17 15:58:40 - Active Window Tracker: 0:00:11.007423 seconds
+2024-08-17 15:59:06 - appdev(2).py - Portfolio-img - Visual Studio Code: 0:00:26.013588 seconds
+2024-08-17 15:59:13 - Active Window Tracker: 0:00:07.004539 seconds
+2024-08-17 15:59:15 - (340) YouTube - Google Chrome: 0:00:02.001005 seconds
+2024-08-17 15:59:17 - (340) Ex Mafia Bartender Shares His Past [Protective] [Tough] [Crime] [Ex-Con] [Reverse Comfort] - YouTube - Google Chrome: 0:00:02.004757 seconds
+2024-08-17 15:59:24 - Active Window Tracker: 0:00:07.007347 seconds
+2024-08-17 15:59:31 - Program Manager: 0:00:07.006091 seconds
+2024-08-17 15:59:50 - Task Manager: 0:00:19.013446 seconds
+2024-08-17 15:59:59 - Active Window Tracker: 0:00:09.007361 seconds
+2024-08-17 16:00:41 - Task Manager: 0:00:42.028590 seconds
+2024-08-17 16:00:46 - : 0:00:05.004431 seconds
+2024-08-17 16:00:51 - New Tab - Google Chrome: 0:00:05.006055 seconds
+2024-08-17 16:00:55 - YouTube - Google Chrome: 0:00:04.006073 seconds
+2024-08-17 16:00:56 - (340) YouTube - Google Chrome: 0:00:01.001971 seconds
+2024-08-17 16:01:00 - New Tab - Google Chrome: 0:00:04.004225 seconds
+2024-08-17 16:01:03 - (340) YouTube - Google Chrome: 0:00:03.002701 seconds
+2024-08-17 16:01:09 - New Tab - Google Chrome: 0:00:06.002769 seconds
+2024-08-17 16:01:13 - Active Window Tracker: 0:00:04.005646 seconds
+2024-08-17 16:01:16 - appdev(2).py - Portfolio-img - Visual Studio Code: 0:00:03.001762 seconds
+2024-08-17 16:01:21 - Active Window Tracker: 0:00:05.005351 seconds
+2024-08-17 16:01:22 - : 0:00:01.003064 seconds
+2024-08-17 16:04:59 - Task Manager: 0:03:37.139254 seconds
+2024-08-17 16:05:01 - : 0:00:02.006346 seconds
+2024-08-17 16:05:02 - Active Window Tracker: 0:00:01.001381 seconds
+2024-08-17 16:05:04 - Control Panel: 0:00:02.004878 seconds
+2024-08-17 16:05:05 - : 0:00:01.005294 seconds
+2024-08-17 16:10:05 - appdev(2).py - Portfolio-img - Visual Studio Code: 0:05:00.171302 seconds
+2024-08-17 16:10:06 - : 0:00:01.001431 seconds
+2024-08-17 16:10:15 - New Tab - Google Chrome: 0:00:09.005502 seconds
+2024-08-17 16:10:16 - : 0:00:01.005796 seconds
+2024-08-17 16:10:28 - Active Window Tracker: 0:00:12.009186 seconds
+2024-08-17 16:10:32 - New Tab - Google Chrome: 0:00:04.003685 seconds
+2024-08-17 16:10:35 - YouTube - Google Chrome: 0:00:03.001570 seconds
+2024-08-17 16:10:39 - (341) YouTube - Google Chrome: 0:00:04.003814 seconds
+2024-08-17 16:10:41 - New Tab - Google Chrome: 0:00:02.003268 seconds
+2024-08-17 16:10:46 - life - Google Search - Google Chrome: 0:00:05.002686 seconds
+2024-08-17 16:11:00 - (341) YouTube - Google Chrome: 0:00:14.006126 seconds
+2024-08-17 16:11:03 - life - Google Search - Google Chrome: 0:00:03.005548 seconds
+2024-08-17 16:11:08 - New Tab - Google Chrome: 0:00:05.003374 seconds
+2024-08-17 16:11:10 - Figma - Google Chrome: 0:00:02.004637 seconds
+2024-08-17 16:12:19 - Portfolio – Figma - Google Chrome: 0:01:09.041736 seconds
+2024-08-17 16:12:23 - New Tab - Google Chrome: 0:00:04.003572 seconds
+2024-08-17 16:13:11 - Join GitHub · GitHub - Google Chrome: 0:00:48.027322 seconds
+2024-08-17 16:13:15 - Sign in to GitHub · GitHub - Google Chrome: 0:00:04.004592 seconds
+2024-08-17 16:14:18 - GitHub - Google Chrome: 0:01:02.038821 seconds
+2024-08-17 16:14:23 - Portfolio – Figma - Google Chrome: 0:00:05.012538 seconds
+2024-08-17 16:14:26 - life - Google Search - Google Chrome: 0:00:03.001426 seconds
+2024-08-17 16:15:50 - Portfolio – Figma - Google Chrome: 0:01:24.055275 seconds
+2024-08-17 16:15:53 - life - Google Search - Google Chrome: 0:00:03.005199 seconds
+2024-08-17 16:15:55 - GitHub - Google Chrome: 0:00:02.002818 seconds
+2024-08-17 16:16:02 - Portfolio – Figma - Google Chrome: 0:00:07.003924 seconds
+2024-08-17 16:16:39 - Task Manager: 0:00:37.023883 seconds
+2024-08-17 16:17:00 - appdev(2).py - Portfolio-img - Visual Studio Code: 0:00:21.013702 seconds
+2024-08-17 16:17:04 - Task Manager: 0:00:04.003646 seconds
+2024-08-17 16:18:32 - Portfolio – Figma - Google Chrome: 0:01:28.060541 seconds
+2024-08-17 16:18:34 - GitHub - Google Chrome: 0:00:02.000991 seconds
+2024-08-17 16:19:12 - life - Google Search - Google Chrome: 0:00:38.029081 seconds
+2024-08-17 16:21:08 - appdev(2).py - Portfolio-img - Visual Studio Code: 0:00:01.004242 seconds
+2024-08-17 16:21:16 - Active Window Tracker: 0:00:08.008403 seconds
+2024-08-17 16:21:17 - : 0:00:01.002294 seconds
+2024-08-17 16:21:29 - New Tab - Google Chrome: 0:00:12.010421 seconds
+2024-08-17 16:21:31 - Figma - Google Chrome: 0:00:02.003388 seconds
+2024-08-17 16:21:48 - Portfolio – Figma - Google Chrome: 0:00:17.010084 seconds
+2024-08-17 16:23:38 - appdev(2).py - Portfolio-img - Visual Studio Code: 0:00:01.001226 seconds
+2024-08-17 16:23:39 - : 0:00:01.003150 seconds
+2024-08-17 16:23:42 - New Tab - Google Chrome: 0:00:03.001742 seconds
+2024-08-17 16:23:43 - YouTube - Google Chrome: 0:00:01.002685 seconds
+2024-08-17 16:23:45 - New Tab - Google Chrome: 0:00:02.000995 seconds
+2024-08-17 16:23:47 - Figma - Google Chrome: 0:00:02.002770 seconds
+2024-08-17 16:23:55 - New Tab - Google Chrome: 0:00:08.004734 seconds
+2024-08-17 16:25:07 - life - Google Search - Google Chrome: 0:01:11.042693 seconds
+2024-08-17 16:26:46 - New Tab - Google Chrome: 0:01:39.058165 seconds
+2024-08-17 16:26:53 - Task Manager: 0:00:07.007072 seconds
+2024-08-17 16:27:29 - New Tab - Google Chrome: 0:00:36.021244 seconds
+2024-08-17 16:27:31 - YouTube - Google Chrome: 0:00:02.002897 seconds
+2024-08-17 16:27:32 - Portfolio – Figma - Google Chrome: 0:00:01.002094 seconds
+2024-08-17 16:27:36 - life - Google Search - Google Chrome: 0:00:04.004408 seconds
+2024-08-17 16:28:00 - Task Manager: 0:00:24.013998 seconds
+2024-08-17 16:30:43 - appdev(2).py - Portfolio-img - Visual Studio Code: 0:02:43.082909 seconds
+2024-08-17 16:31:00 - Task Manager: 0:00:17.013144 seconds
+2024-08-17 16:31:01 - : 0:00:01.001349 seconds
+2024-08-17 16:31:02 - File Explorer: 0:00:01.005594 seconds
+2024-08-17 16:31:05 - Home: 0:00:03.002455 seconds
+2024-08-17 16:31:08 - 3rd Year: 0:00:03.005858 seconds
+2024-08-17 16:31:16 - Portfolio Design For Desktop - Google Chrome: 0:00:08.004905 seconds
+2024-08-17 16:31:18 - appdev(2).py - Portfolio-img - Visual Studio Code: 0:00:02.003116 seconds
+2024-08-17 16:31:38 - portfolio.html - Portfolio-img - Visual Studio Code: 0:00:20.012156 seconds
+2024-08-17 16:31:39 - about me.html - Portfolio-img - Visual Studio Code: 0:00:01.000403 seconds
+2024-08-17 16:31:40 - hobbies.html - Portfolio-img - Visual Studio Code: 0:00:01.000993 seconds
+2024-08-17 16:31:47 - ● portfolio.css - Portfolio-img - Visual Studio Code: 0:00:07.003860 seconds
+2024-08-17 16:31:49 - : 0:00:02.006540 seconds
+2024-08-17 16:32:04 - Active Window Tracker: 0:00:15.019164 seconds
+2024-08-17 16:32:50 - Task Manager: 0:00:46.033935 seconds
