@@ -91,7 +91,11 @@ nav {
     object-fit: cover;
 }
 
+<<<<<<< HEAD
 @media (min-width: 633px) and (min-height: 1420px) {
+=======
+@media (min-width: 1080px) and (min-height: 2340px) {
+>>>>>>> 1e05c2fdd919542f06a9deabf8b2eb36b3f8d02d
     .header {
         flex-direction: row;
         justify-content: space-between;
@@ -120,7 +124,11 @@ nav {
     }
 }
 
+<<<<<<< HEAD
 @media screen and (max-width: 1080px) {
+=======
+@media screen and (max-width: 1080px) { /* Fixed syntax */
+>>>>>>> 1e05c2fdd919542f06a9deabf8b2eb36b3f8d02d
     .text-box {
         width: 100%;
         text-align: center;
@@ -135,6 +143,7 @@ nav {
     .text-box h1 {
         font-size: 40px;
     }
+<<<<<<< HEAD
 
     .text-box h2 {
         font-size: 30px;
@@ -145,3 +154,8 @@ nav {
     }
 }
 
+=======
+}
+
+
+>>>>>>> 1e05c2fdd919542f06a9deabf8b2eb36b3f8d02d
