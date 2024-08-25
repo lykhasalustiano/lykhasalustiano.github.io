@@ -1,0 +1,165 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+    color: white; 
+}
+
+body, html {
+    width: 100%;
+    height: 100%;
+    background-color: #ffffff; 
+}
+
+.header {
+    min-height: 100vh;
+    width: 100%;
+    background-image: url(Portfolio-img/black.png); 
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    flex-wrap: wrap;
+}
+
+nav {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 2% 6%;
+}
+
+.nav-links ul {
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+    margin: 0;
+    padding: 0;
+    flex-wrap: wrap;
+}
+
+.nav-links ul li {
+    margin: 0 20px;
+}
+
+.nav-links ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 20px; 
+    padding: 10px;
+}
+
+.text-box {
+    color: white;
+    width: 50%;
+    text-align: left;
+    padding: 20px;
+}
+
+.about-me {
+    width: 80%;
+    margin: auto;
+    text-align: center; 
+    padding-top: 15px;
+    padding-bottom: 50px; 
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+    align-items: center;
+    margin-top: 100px;  
+}
+
+h1 {
+    font-size: 72px;
+    font-weight: 600;
+    margin-top: 20px;
+    color: white;
+}
+
+p {
+    font-size: 18px; 
+    font-weight: 300; 
+    line-height: 1.5; 
+    margin-top: 20px;
+    text-align: center;  
+    width: 100%;       
+    max-width: 800px;   
+    padding: 10px;      
+}
+
+.red-box {
+    border: 2px solid #990000;  
+    background-color: #990000;
+    padding: 10px;          
+    box-sizing: border-box; 
+    text-align: center;    
+    color: white;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+    flex-wrap: wrap;
+    margin-top: 5%;
+}
+
+.about-col, .project-col {
+    flex-basis: 31%; 
+    background: transparent;
+    border-radius: 10px;
+    margin-bottom: 5%;
+    padding: 20px 12px;
+    box-sizing: border-box;
+    text-align: center;
+    display: flex; 
+    flex-direction: column;
+    justify-content: space-between; 
+    height: 100%; 
+}
+
+h3 {
+    font-weight: 600;
+    font-size: 28px; /* Increased font size */
+    margin: 10px 0;
+}
+
+/* Footer */
+.footer {
+    background-color: black;
+    padding: 20px; 
+    text-align: center; 
+    color: white; /* White text in footer */
+    font-size: 5px; /* Adjusted fontS size */
+}
+
+
+/*--- Media Query for responsiveness ---*/
+@media screen and (max-width: 768px) {
+    .row {
+        flex-direction: column;
+    }
+
+    h1 {
+        font-size: 56px; /* Adjusted font size for smaller screens */
+    }
+
+    p {
+        font-size: 20px; /* Increased paragraph font size for readability */
+    }
+
+    .about-col, .project-col {
+        flex-basis: 100%; /* Full width on small screens */
+        margin-bottom: 20px;
+        height: auto;
+        max-width: none;
+    }
+}
