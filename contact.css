@@ -1,0 +1,75 @@
+.header4 {
+    padding: 20px;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+h2 {
+    text-align: left;
+    margin-bottom: 1px;
+    margin-left: 200px; 
+    margin-top: 150px;
+}
+
+p {
+    text-align: left;
+    margin-left: 200px; 
+    margin-bottom: 5px; 
+    margin-top: 5px;
+}
+
+.form-section {
+    display: flex;
+    flex-direction: row;
+    margin-left: 200px; 
+    width: calc(100% - 200px);
+    align-items: flex-start;
+}
+
+.form-details {
+    flex: 1;
+    margin-right: -100px;
+    margin-left: 0;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+.input-field {
+    flex: 1;
+    margin-left: auto; 
+    margin-right: 200px; 
+    margin-top: -20px;
+}
+
+.input-field form {
+    flex-direction: column;
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+    margin-top: 5px;
+    padding: 8pxS;
+    border-radius: 0px;
+    width: 50%;
+}
+
+textarea {
+    resize: vertical; 
+    height: 100px;
+}
+
+button {
+    margin-top: 5pX;
+    padding: 8px;
+    background-color: #990000;
+    width: 50%;
+    }
+
