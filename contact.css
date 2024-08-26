@@ -189,7 +189,6 @@ button:hover {
 
      .nav-links ul {
         flex-direction: row;
-        align-items: center;
     }
 
     .nav-links ul li {
@@ -216,6 +215,6 @@ button:hover {
     }
 
     .footer {
-        font-size: 14px; 
+        font-size: 5.9px; 
     }
 }

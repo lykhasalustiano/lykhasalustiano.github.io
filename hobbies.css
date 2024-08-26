@@ -74,9 +74,10 @@ nav {
     color: #ffffff; 
     font-size: 3vw; 
     line-height: 1.5;
-    margin-top: 2vw;
-    padding: 0 5vw;
+    margin-top: 2px;
+
 }
+
 
 h3 {
     font-size: 5vw; 
@@ -158,5 +159,15 @@ h3 {
 
     .footer {
         font-size: 1.7vw; 
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .header {
+        padding: 10px;
+    }
+
+    .footer {
+        font-size: 5.9px; 
     }
 }

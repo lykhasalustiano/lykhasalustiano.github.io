@@ -128,46 +128,17 @@ p {
 
 .footer {
     background-color: black;
-    padding: 2.5vw;
+    padding: 4vw;
     text-align: center;
     color: white;
-    font-size: 2vw;
+    font-size: 3vw;
 }
 
-@media screen and (min-width: 425px) { 
-    .header {
-        min-height: 10vh;
-    }
-
-    .row {
-        flex-direction: row; 
-    }
-
-
-    h1 {
-        font-size: 3vw; 
-    }
-
-    p {
-        font-size: 2vw;
-        max-width: 100%;
-        line-height: 1; 
-    }
-
-    .about-col, .project-col {
-        flex-basis: 20%;
-        max-width: 600px; 
-    }
-
-    .about-col h3, .project-col h3 {
-        font-size: 2vw; 
-    }
-    .footer{
-        font-size: 1.7vw;
+@media screen and (min-width: 425px) {
+    .footer {
+        font-size: 5.9px; 
     }
 }
-
-
 
 @media screen and (max-width: 768px) {
     .row {
@@ -187,6 +158,10 @@ p {
         flex-basis: 100%;
         margin-bottom: 5vw;
         max-width: none;
+    }
+
+    .footer {
+        font-size: 1.7px; 
     }
 }
 

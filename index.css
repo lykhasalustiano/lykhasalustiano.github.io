@@ -84,6 +84,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-left: center;
   }
   
   .port-image img {
