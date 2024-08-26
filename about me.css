@@ -1,15 +1,13 @@
 * {
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
     font-family: Arial, sans-serif;
-    color: white; 
+    box-sizing: border-box;
 }
 
 body, html {
     width: 100%;
     height: 100%;
-    background-color: #ffffff; 
 }
 
 .header {
@@ -20,146 +18,161 @@ body, html {
     background-size: cover;
     position: relative;
     display: flex;
-    justify-content: space-between;
+    flex-direction: column; 
     align-items: center;
-    padding: 20px;
-    flex-wrap: wrap;
+    padding: 4vw; 
 }
 
 nav {
     width: 100%;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
     position: absolute;
     top: 0;
     left: 0;
-    padding: 2% 6%;
+    padding: 2vw;
+    background: rgba(0, 0, 0, 0.5); 
 }
 
 .nav-links ul {
     list-style: none;
     display: flex;
-    justify-content: flex-end;
+    justify-content: center;
     margin: 0;
     padding: 0;
-    flex-wrap: wrap;
 }
 
 .nav-links ul li {
-    margin: 0 20px;
+    margin: 0 2vw; 
 }
 
 .nav-links ul li a {
     color: white;
     text-decoration: none;
-    font-size: 20px; 
-    padding: 10px;
+    font-size: 3vw; 
+    padding: 1.5vw;
 }
 
 .text-box {
     color: white;
     width: 50%;
-    text-align: left;
-    padding: 20px;
+    text-align: center;
+    padding: 4vw;
+    margin-top: 10vh; 
 }
+
+.port-image {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.port-image img {
+    max-width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
 
 .about-me {
     width: 80%;
     margin: auto;
     text-align: center; 
-    padding-top: 15px;
-    padding-bottom: 50px; 
+    padding-top: 4vw;
+    padding-bottom: 5vw; 
     display: flex;
     flex-direction: column;
     justify-content: center; 
     align-items: center;
-    margin-top: 100px;  
+    margin-top: 12vh; 
+    color: white;
+    
 }
 
 h1 {
-    font-size: 72px;
+    font-size: 7vw; 
     font-weight: 600;
-    margin-top: 20px;
-    color: white;
+    margin-top: 2vw;
 }
 
 p {
-    font-size: 18px; 
+    font-size: 3vw;
     font-weight: 300; 
     line-height: 1.5; 
-    margin-top: 20px;
+    margin-top: 2vw;
     text-align: center;  
     width: 100%;       
-    max-width: 800px;   
-    padding: 10px;      
+    max-width: 90%;   
+    padding: 1.5vw;      
 }
 
 .red-box {
-    border: 2px solid #990000;  
-    background-color: #990000;
-    padding: 10px;          
-    box-sizing: border-box; 
-    text-align: center;    
-    color: white;
+    border: 1.5vw solid #990000;    
+    background-color: #990000;   
+    color: white;           
+    padding: 2vw;     
+    box-sizing: border-box;   
+    width: 90%;           
+    max-width: none;  
+    margin: 2vw auto;   
 }
 
 .row {
     display: flex;
-    justify-content: space-between;
+    justify-content: center; 
     align-items: center; 
     flex-wrap: wrap;
-    margin-top: 5%;
+    margin-top: 6vw; 
 }
 
 .about-col, .project-col {
-    flex-basis: 31%; 
+    flex: 1; 
+    max-width: 30%; 
     background: transparent;
-    border-radius: 10px;
-    margin-bottom: 5%;
-    padding: 20px 12px;
+    border-radius: 0.7vw;
+    margin: 1vw; 
+    padding: 2vw;
     box-sizing: border-box;
     text-align: center;
     display: flex; 
     flex-direction: column;
     justify-content: space-between; 
-    height: 100%; 
 }
 
-h3 {
+
+.about-col h3, .project-col h3 {
     font-weight: 600;
-    font-size: 28px; /* Increased font size */
-    margin: 10px 0;
+    font-size: 4vw; 
+    margin: 1.5vw 0;
 }
 
-/* Footer */
+
 .footer {
     background-color: black;
-    padding: 20px; 
+    padding: 2.5vw; 
     text-align: center; 
-    color: white; /* White text in footer */
-    font-size: 5px; /* Adjusted fontS size */
+    color: white;
+    font-size: 2vw;
 }
 
-
-/*--- Media Query for responsiveness ---*/
 @media screen and (max-width: 768px) {
     .row {
         flex-direction: column;
     }
 
     h1 {
-        font-size: 56px; /* Adjusted font size for smaller screens */
+        font-size: 6vw;
     }
 
     p {
-        font-size: 20px; /* Increased paragraph font size for readability */
+        font-size: 3vw;
     }
 
     .about-col, .project-col {
-        flex-basis: 100%; /* Full width on small screens */
-        margin-bottom: 20px;
-        height: auto;
+        flex-basis: 100%; 
+        margin-bottom: 5vw;
         max-width: none;
     }
 }
