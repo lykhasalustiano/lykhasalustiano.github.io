@@ -218,3 +218,9 @@ button:hover {
         font-size: 5.9px; 
     }
 }
+
+@media screen and (max-width: 768px) {
+    .footer{
+        font-size: 4.9px;
+    }
+}

@@ -158,7 +158,7 @@ h3 {
     }
 
     .footer {
-        font-size: 1.7vw; 
+        font-size: 1.7px; 
     }
 }
 
@@ -169,5 +169,11 @@ h3 {
 
     .footer {
         font-size: 5.9px; 
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .footer{
+        font-size: 5.7px;
     }
 }
