@@ -69,6 +69,20 @@ nav {
     color: white;
 }
 
+.about-m {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding-top: 4vw;
+    padding-bottom: 5vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1vw;
+    color: white;
+}
+
 h1 {
     font-size: 7vw;
     font-weight: 600;
@@ -140,7 +154,8 @@ p {
     justify-content: center;
     align-items: center; 
     gap: 2vw; 
-    margin-top: 50px;
+    margin-top: 1vw;
+    margin-bottom: 3vw;
 }
 
 .image-container img {
@@ -159,6 +174,12 @@ p {
 
     h3{
         font-size: 6vw;
+    }
+
+    .image-container img {
+        width: 80vw; 
+        height: auto;
+        
     }
 
 }
@@ -194,6 +215,10 @@ p {
         font-size: 3vw;
         padding: 2vw;
       }
+
+      .footer p {
+        font-size: 2vw; 
+    }
     
 
     

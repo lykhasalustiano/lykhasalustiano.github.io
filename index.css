@@ -97,7 +97,7 @@
     .text-box {
       width: 100%;
       text-align: center;
-      margin: 15vh 0;
+      margin: 15vw 0;
     }
   
     .port-image {
@@ -125,7 +125,7 @@
   
   @media screen and (min-width: 768px) { 
     .header {
-      min-height: 300vh;
+      min-height: 300vw;
     }
 
     .nav-links ul {
@@ -135,13 +135,13 @@
   
     .text-box {
       width: 80%;
-      margin-top: 6vh;
+      margin-top: 6vw;
       text-align: center;
     }
   
     .port-image {
       width: 200%; 
-      margin-left: -500px;
+      margin-left: -500vw;
 
     }
   
@@ -163,4 +163,5 @@
     }
   }
   
- 
+  @media screen and (max-width: 425px) {}
+  

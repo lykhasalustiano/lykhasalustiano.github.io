@@ -132,9 +132,10 @@ h3 {
         align-items: center;
     }
 
-    .nav-links ul li {
-        margin: 1.5vw 0;
-    }
+    .nav-links ul li a {
+        font-size: 3vw;
+        padding: 2vw;
+      }
 
     .hobbies-and-skills h1 {
         font-size: 8vw; 
@@ -178,5 +179,11 @@ h3 {
     .hobbies-and-skills p{
         font-size: 3.5vw;
     }
+
+    .hobbies-and-skills p3{
+        font-size: 3.5vw;
+    }
+
+
 }
 
