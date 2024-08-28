@@ -160,11 +160,11 @@ button:hover {
 
 @media screen and (min-width: 425px) {
     .header{
-        min-height: 10vh;
+        padding: 2vw;
     }
 
     .form-container{
-        padding: 10px;
+        padding: 10vw;
     }
 
     .wrapper{
@@ -184,19 +184,11 @@ button:hover {
 
 @media screen and (max-width: 768px) {
     .header {
-        padding: 10px;
-    }
-
-     .nav-links ul {
-        flex-direction: row;
-    }
-
-    .nav-links ul li {
-        margin: 10px 0;
+        padding: 10vw;
     }
 
     .form-container {
-        padding: 10px;
+        padding: 10vw;
     }
 
     .wrapper {
@@ -214,13 +206,23 @@ button:hover {
         width: 100%;
     }
 
-    .footer {
-        font-size: 5.9px; 
+    .footer p{
+        font-size: 1.8vw; 
     }
 }
 
-@media screen and (max-width: 768px) {
-    .footer{
-        font-size: 4.9px;
+@media screen and (max-width: 425px) {
+
+    .header {
+        padding: 2vw;
     }
+    .footer p{
+        font-size: 1.8vw;
+    }
+
+    .nav-links ul li a {
+        font-size: 3vw;
+        padding: 2vw;
+      }
+
 }
