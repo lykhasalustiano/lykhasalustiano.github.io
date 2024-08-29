@@ -214,6 +214,44 @@ p5 {
       .footer p5 {
         font-size: 2vw; 
     }
+    @media screen and (min-width:1024px ) {
+        
+        h1 {
+            font-size: 3vw; 
+        }
+    
+        .nav-links ul li a {
+            font-size: 16vw;
+            padding: 20vw;
+        }
+    
+        .about-me, .about-m {
+            width: 60%; 
+            margin-top: 10vh;
+        }
+    
+        .about-col, .project-col {
+            max-width: 25%;
+            margin: 1.5vw;
+        }
+    
+        .red-box {
+            padding: 1.5vw; 
+            border: 1vw solid #990000; 
+        }
+    
+        .row {
+            margin-top: 4vw;
+        }
+    
+        .footer {
+            font-size: 1.5vw; 
+        }
+    
+        .image-container img {
+            max-width: 60vw;
+        }
+    }
     
 
     
