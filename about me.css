@@ -3,6 +3,7 @@
     padding: 0;
     font-family: Serif;
     box-sizing: border-box;
+
 }
 
 body, html {
@@ -89,16 +90,6 @@ h1 {
     margin-top: 2vw;
 }
 
-p {
-    font-size: 3vw;
-    font-weight: 300;
-    line-height: 1.6; 
-    margin-top: 2vw;
-    text-align: center;
-    width: 100%;
-    max-width: 70%;
-    padding: 1.5vw;
-}
 
 .red-box {
     border: 1.5vw solid #990000;
@@ -142,10 +133,14 @@ p {
 
 .footer {
     background-color: black;
-    padding: 4vw;
-    text-align: center;
-    color: white;
-    font-size: 3vw;
+    padding: 2vw; 
+    text-align: center; 
+    color: white; 
+    font-size: 3vw; 
+}
+
+p5 {
+    font-size: 7.1288px;
 }
 
 .image-container {
@@ -168,7 +163,7 @@ p {
 
 
 @media screen and (min-width: 425px) {
-    .footer p {
+    .footer p5 {
         font-size: 2vw; 
     }
 
@@ -204,8 +199,8 @@ p {
         max-width: none;
     }
 
-    .footer p{
-        font-size: 1.8vw; 
+    .footer p5{
+        font-size: 2vw; 
     
     }
 }
@@ -216,7 +211,7 @@ p {
         padding: 2vw;
       }
 
-      .footer p {
+      .footer p5 {
         font-size: 2vw; 
     }
     

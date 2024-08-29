@@ -68,13 +68,14 @@ nav {
     font-size: 6vw;
     margin-top: 2vw;
     color: #ffffff; 
+    margin-bottom: 2vw;
 }
 
 .hobbies-and-skills p3 {
     color: #ffffff; 
     font-size: 3vw; 
     line-height: 1.5;
-    margin-top: 2px;
+    margin-top: 5vw;
 
 }
 
@@ -116,7 +117,7 @@ h3 {
 
 .footer {
     background-color: black;
-    padding: 4vw; 
+    padding: 2vw; 
     text-align: center; 
     color: white; 
     font-size: 3vw; 
@@ -162,7 +163,7 @@ h3 {
         height: auto;
     }
 
-    .footer p{
+    .footer p5{
         font-size: 2vw; 
     }
 }
@@ -172,8 +173,8 @@ h3 {
         padding: 2vw;
     }
 
-    .footer {
-        font-size: 1.9vw; 
+    .footer p5 {
+        font-size: 2vw; 
     }
 
     .hobbies-and-skills p{

@@ -99,7 +99,7 @@
       text-align: center;
       margin: 15vw 0;
     }
-  
+    
     .port-image {
       width: 100%;
       margin: 2vw 0;
@@ -163,5 +163,60 @@
     }
   }
   
-  @media screen and (max-width: 425px) {}
+  @media screen and (max-width: 1080px) {
+    .text-box {
+      width: 80%;
+      margin-top: 6vw;
+      text-align: center;
+    }
+  
+    .text-box h1 {
+      font-size: 6vw; 
+      margin-top: 20vw;
+    }
+  
+    .text-box h2 {
+      font-size: 3.8vw; 
+    }
+  
+    .text-box p {
+      font-size: 2.7vw;
+      
+    }
+
+    
+    .port-image {
+      width: 100%; 
+      margin-left: 0vw;
+
+    }
+  }
+
+  @media screen and (max-width: 2560px) {
+    .text-box {
+      width: 80%;
+      margin-top: -10vw;
+      text-align: center;
+    }
+  
+    .text-box h1 {
+      font-size: 6vw; 
+      margin-top: 15vw;
+    }
+  
+    .text-box h2 {
+      font-size: 3.8vw; 
+    }
+  
+    .text-box p {
+      font-size: 2.7vw;
+      
+    }
+    .port-image {
+      width: 100%; 
+      margin-left: 0vw;
+
+    }
+
+  }
   
