@@ -129,6 +129,21 @@ nav {
         font-size: 3.5vw;  
 }
 }
+@media  screen and (max-width: 1080px){
+    .nav-links ul li a {
+        font-size: 3vw; 
+        padding: 2vw;
+      }
+
+    .icon i{
+        font-size: 6vw;
+    }  
+
+    .icon ul li a{
+        font-size: 3.5vw;   
+    }  
+
+}
 
 
 
