@@ -130,28 +130,7 @@ nav {
 }
 }
 
-@media screen and (max-width: 425px) {
 
-    .header {
-        padding: 2vw;
-    }
-    .footer p5{
-        font-size: 2vw;
-    }
-
-    .nav-links ul li a {
-        font-size: 3vw;
-        padding: 2vw;
-      }
-      .icon i{
-        font-size: 6vw;
-    }  
-
-    .icon ul li a{
-        font-size: 3.5vw;  
-
-}
-}
 
 @media  screen and (max-width: 2560px){
     
