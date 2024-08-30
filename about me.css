@@ -321,8 +321,9 @@ p5 {
         margin-top: 4vw;
     }
     
-    .footer {
-        font-size: 1.5vw; 
+    .footer p5{
+        font-size: 2vw; 
+    
     }
     
     .image-container img {
