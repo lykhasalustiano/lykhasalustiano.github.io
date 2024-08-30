@@ -174,8 +174,9 @@ h3 {
     }
 
     .footer p5{
-        font-size: 2vw; 
+        font-size: 1.8vw; 
         font-weight: normal;
+    
     }
 }
 
@@ -220,9 +221,14 @@ h3 {
         font-size: 4vw; 
         font-weight: normal;
     }
+
+    .footer p5{
+        font-size: 1.8vw; 
+        font-weight: normal;
+    
+    }
 }
 
-/* Styles for large desktop screens up to 2560px */
 @media screen and (min-width: 1441px) and (max-width: 2560px) {
     .nav-links ul {
         justify-content: flex-end;
@@ -264,8 +270,8 @@ h3 {
 
     .image-container img {
         flex-direction: row;
-        width: 40%; /* Adjust the percentage as needed */
-        height: auto; /* Maintain the aspect ratio */
+        width: 40%; 
+        height: auto; 
         
     }
 
@@ -275,7 +281,6 @@ h3 {
     }
 }
 
-/* Styles for standard desktop screens up to 1440px */
 @media screen and (min-width: 1025px) and (max-width: 1440px) {
     .footer p5 {
         font-size: 2vw; 
@@ -302,8 +307,8 @@ h3 {
 
     .image-container img {
         flex-direction: row;
-        width: 40%; /* Adjust the percentage as needed */
-        height: auto; /* Maintain the aspect ratio */
+        width: 40%; 
+        height: auto; 
 
     }
 }

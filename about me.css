@@ -230,7 +230,7 @@ p5 {
     }
 
     .footer p5 {
-        font-size: 2vw; 
+        font-size: 1.8vw; 
         font-weight: normal;
     }
 
@@ -296,7 +296,7 @@ p5 {
     }
 
     .footer p5{
-        font-size: 2vw; 
+        font-size: 1.8vw; 
         font-weight: normal;
     
     }
@@ -380,7 +380,7 @@ p5 {
     }
     
     .footer p5{
-        font-size: 2vw; 
+        font-size: 1.8vw; 
         font-weight: normal;
     
     }
@@ -391,7 +391,6 @@ p5 {
     }
 }
 
-/* Styles for large desktop screens up to 2560px */
 @media screen and (min-width: 1441px) and (max-width: 2560px) {
     .nav-links ul {
         justify-content: flex-end;
@@ -413,18 +412,22 @@ p5 {
      
     .about-me p {
         font-size: 2vw;
-        line-height: 1;
+        line-height: 1.5;
+        margin: 0; 
+        padding: 0; 
         font-weight: normal;
     }
 
     .about-col h3 {
         font-size: 2vw;
         font-weight: normal;
-
     }
     
     .about-col p {
         font-size: 2vw;
+        line-height: 1.5; 
+        margin: 0; 
+        padding: 0;
         font-weight: normal;
     }
 
@@ -442,12 +445,17 @@ p5 {
 
     .about-m p {
         font-size: 2vw;
-        line-height: 1vw;
+        line-height: 1.5; 
+        margin: 0; 
+        padding: 0; 
         font-weight: normal;
     }
 
     .project-col p {
         font-size: 2vw;
+        line-height: 1.5;
+        margin: 0; 
+        padding: 0; 
         font-weight: normal;
     }
 
@@ -459,12 +467,16 @@ p5 {
     p {
         font-weight: 300;
         line-height: 1.5;
-        padding: 10px;
+        margin: 0; 
+        padding: 10px 0; 
         font-weight: normal;
     }
 
-    .footer p5{
+    .footer p5 {
         font-size: 1.6vw;
+        line-height: 1.5; 
+        margin: 0;
+        padding: 0; 
         font-weight: normal;
     }
 
@@ -472,18 +484,14 @@ p5 {
         display: flex;
         flex-direction: row;
         align-items: center;
-        font-weight: normal;
     }
 
     .image-container img {
-        flex-direction: row;
-        width: 40%; /* Adjust the percentage as needed */
-        height: auto; /* Maintain the aspect ratio */
-
+        width: 40%; 
+        height: auto; 
     }
 }
 
-/* Styles for standard desktop screens up to 1440px */
 @media screen and (min-width: 1025px) and (max-width: 1440px) {
     .nav-links ul {
         justify-content: flex-end;
@@ -505,7 +513,9 @@ p5 {
      
     .about-me p {
         font-size: 2vw;
-        line-height: 1;
+        line-height: 1.5; 
+        margin: 0;
+        padding: 0; 
         font-weight: normal;
     }
 
@@ -516,12 +526,15 @@ p5 {
     
     .about-col p {
         font-size: 2vw;
+        line-height: 1.5; 
+        margin: 0;
+        padding: 0;
         font-weight: normal;
     }
 
     .about-m h1 {
         font-size: 4vw; 
-        margin-bottom: 1;
+        margin-bottom: 1vw;
         font-weight: normal;
     }
 
@@ -533,12 +546,17 @@ p5 {
 
     .about-m p {
         font-size: 2vw;
-        line-height: 1;
+        line-height: 1.5; 
+        margin: 0;
+        padding: 0; 
         font-weight: normal;
     }
 
     .project-col p {
         font-size: 2vw;
+        line-height: 1.5; 
+        margin: 0; 
+        padding: 0; 
         font-weight: normal;
     }
 
@@ -549,14 +567,20 @@ p5 {
 
     p {
         font-weight: 300;
-        line-height: 1;
-        padding: 10px;
+        line-height: 1.5;
+        margin: 0; 
+        padding: 10px 0;
         font-weight: normal;
     }
-    .footer p5{
+
+    .footer p5 {
         font-size: 1.6vw;
+        line-height: 1.5; 
+        margin: 0; 
+        padding: 0; 
         font-weight: normal;
     }
+
     .image-container {
         display: flex;
         flex-direction: row;
@@ -564,9 +588,7 @@ p5 {
     }
 
     .image-container img {
-        flex-direction: row;
-        width: 40%; /* Adjust the percentage as needed */
-        height: auto; /* Maintain the aspect ratio */
-
+        width: 40%;
+        height: auto; 
     }
 }

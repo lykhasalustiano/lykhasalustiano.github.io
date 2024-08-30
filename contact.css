@@ -111,8 +111,10 @@ nav {
         font-size: 6vw;
     }  
 
-    .icon ul li a{
-        font-size: 3.5vw;  
+    .footer p5{
+        font-size: 1.8vw; 
+        font-weight: normal;
+    
     }
 
  }
@@ -122,7 +124,9 @@ nav {
         padding: 10vw;
     }
     .footer p5{
-        font-size: 2vw; 
+        font-size: 1.8vw; 
+        font-weight: normal;
+    
     }
     .nav-links ul {
         justify-content: flex-end;
@@ -158,12 +162,17 @@ nav {
         font-size: 3.5vw;   
     }  
 
+    .footer p5{
+        font-size: 1.8vw; 
+        font-weight: normal;
+    
+    }
+
 }
 
 
 
 
-/* Styles for large desktop screens up to 2560px */
 @media screen and (min-width: 1441px) and (max-width: 2560px) {
     
     .nav-links ul li a {
@@ -183,20 +192,20 @@ nav {
     }
 }
 
-/* Styles for standard desktop screens up to 1440px */
+
 @media screen and (min-width: 1025px) and (max-width: 1440px) {
     
     .nav-links ul li a {
-        font-size: 2vw; /* Adjust this value as needed for smaller desktop screens */
+        font-size: 2vw; 
         padding: 1vw;
     }
 
     .icon i {
-        font-size: 4vw; /* Adjust this value as needed for smaller desktop screens */
+        font-size: 4vw; 
     }  
 
     .icon ul li a {
-        font-size: 1.8vw; /* Adjust this value as needed for smaller desktop screens */
+        font-size: 1.8vw; 
     }
 
     .footer p5{
