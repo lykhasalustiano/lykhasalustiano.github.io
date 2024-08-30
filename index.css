@@ -46,6 +46,7 @@
   .nav-links ul li {
     margin: 1vw;
     font-size: 1vw;
+    font-weight: normal;
   }
   
   .nav-links ul li a {
@@ -53,6 +54,7 @@
     text-decoration: none;
     font-size: 3vw;
     padding: 1.5vw;
+    font-weight: normal;
   }
   
   .text-box {
@@ -66,17 +68,20 @@
   .text-box h1 {
     font-size: 2vw;
     margin-bottom: 1vw;
+    font-weight: normal;
   }
   
   .text-box h2 {
     font-size: 4vw;
     margin-bottom: 1vw;
+    font-weight: normal;
   }
   
   .text-box p {
     font-size: 2vw;
     margin-top: 1vw;
     margin-bottom: 2vw;
+    font-weight: normal;
   }
   
   .port-image {
@@ -107,19 +112,23 @@
   
     .text-box h1 {
       font-size: 7vw;
+      font-weight: normal;
     }
   
     .text-box h2 {
       font-size: 5vw;
+      font-weight: normal;
     }
   
     .text-box p {
       font-size: 3vw;
+      font-weight: normal;
     }
   
     .nav-links ul li a {
       font-size: 3vw;
       padding: 2vw;
+      font-weight: normal;
     }
   }
   
@@ -131,12 +140,14 @@
     .nav-links ul {
       justify-content: flex-end;
       font-size: 1vw;
+      font-weight: normal;
     }
   
     .text-box {
       width: 80%;
       margin-top: 6vw;
       text-align: center;
+      font-weight: normal;
     }
   
     .port-image {
@@ -147,19 +158,23 @@
   
     .text-box h1 {
       font-size: 4vw; 
+      font-weight: normal;
     }
   
     .text-box h2 {
       font-size: 3vw; 
+      font-weight: normal;
     }
   
     .text-box p {
       font-size: 2vw;
+      font-weight: normal;
     }
   
     .nav-links ul li a {
       font-size: 2vw; 
       padding: 1vw;
+      font-weight: normal;
     }
   }
   
@@ -173,14 +188,17 @@
     .text-box h1 {
       font-size: 6vw; 
       margin-top: 20vw;
+      font-weight: normal;
     }
   
     .text-box h2 {
       font-size: 3.8vw; 
+      font-weight: normal;
     }
   
     .text-box p {
       font-size: 2.7vw;
+      font-weight: normal;
       
     }
 
@@ -191,9 +209,10 @@
 
     }
 
-      .nav-links ul li a {
+    .nav-links ul li a {
         font-size: 3vw;
         padding: 2vw;
+        font-weight: normal;
       }
 
 

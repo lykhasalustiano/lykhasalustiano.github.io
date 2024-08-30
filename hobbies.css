@@ -46,6 +46,8 @@ nav {
 .nav-links ul li {
     margin: 1vw;
     font-size: 1vw;
+    font-weight: normal;
+    
 }
 
 .nav-links ul li a {
@@ -53,6 +55,7 @@ nav {
     text-decoration: none;
     font-size: 3vw; 
     padding: 1.5vw;
+    font-weight: normal;
 }
 
 .hobbies-and-skills {
@@ -69,6 +72,7 @@ nav {
     margin-top: 2vw;
     color: #ffffff; 
     margin-bottom: 2vw;
+    font-weight: normal;
 }
 
 .hobbies-and-skills p3 {
@@ -76,6 +80,7 @@ nav {
     font-size: 3vw; 
     line-height: 1.5;
     margin-top: 5vw;
+    font-weight: normal;
 
 }
 
@@ -85,6 +90,7 @@ h3 {
     margin: 2vw 0;
     margin-top: 50px;
     color: #ffffff;
+    font-weight: normal;
 }
 
 .red-box {
@@ -115,12 +121,13 @@ h3 {
     border-radius: 1vw; 
 }
 
-.footer {
+.footer{
     background-color: black;
     padding: 2vw; 
     text-align: center; 
     color: white; 
     font-size: 3vw; 
+    font-weight: normal;
 }
 
 @media screen and (max-width: 425px) {
@@ -135,21 +142,26 @@ h3 {
     .nav-links ul li a {
         font-size: 3vw;
         padding: 2vw;
+        font-weight: normal;
       }
     .hobbies-and-skills h1 {
         font-size: 7vw; 
+        font-weight: normal;
     }
 
     .hobbies-and-skills p{
         font-size: 3.5vw;
+        font-weight: normal;
     }
 
     .hobbies-and-skills p3 {
         font-size: 3.5vw; 
+        font-weight: normal;
     }
 
     .hobbies-and-skills h3 {
         font-size: 4vw; 
+        font-weight: normal;
     }
 
     .red-box {
@@ -163,6 +175,7 @@ h3 {
 
     .footer p5{
         font-size: 2vw; 
+        font-weight: normal;
     }
 }
 
@@ -171,63 +184,126 @@ h3 {
         padding: 2vw;
     }
 
-    .nav-links ul li a {
-        font-size: 3vw;
-        padding: 2vw;
+    .nav-links ul {
+        justify-content: flex-end;
+        font-size: 1vw;
+        font-weight: normal;
       }
+    .nav-links ul li a {
+        font-size: 3vw; 
+        padding: 2vw;
+        font-weight: normal;
+
+    }
 
     .footer p5 {
         font-size: 2vw; 
+        font-weight: normal;
     }
 
     .hobbies-and-skills h1 {
         font-size: 7vw; 
+        font-weight: normal;
     }
 
     .hobbies-and-skills p{
         font-size: 3.5vw;
+        font-weight: normal;
     }
 
     .hobbies-and-skills p3 {
         font-size: 3.5vw; 
+        font-weight: normal;
     }
 
     .hobbies-and-skills h3 {
         font-size: 4vw; 
+        font-weight: normal;
     }
 }
 
-@media  screen and (max-width: 2560px){
+/* Styles for large desktop screens up to 2560px */
+@media screen and (min-width: 1441px) and (max-width: 2560px) {
+    .nav-links ul {
+        justify-content: flex-end;
+        font-size: 1vw;
+        font-weight: normal;
+    }
+
+    .nav-links ul li a {
+        font-size: 2vw; 
+        padding: 1vw;
+        font-weight: normal;
+    }
+
+    .hobbies-and-skills h1 {
+        font-size: 3vw;
+        font-weight: normal; 
+    }
+
+    .hobbies-and-skills p {
+        font-size: 1.8vw;
+        font-weight: normal;
+    }
+
+    .hobbies-and-skills p3 {
+        font-size: 1.8vw; 
+        font-weight: normal;
+    }
+
+    .hobbies-and-skills h3 {
+        font-size: 3vw; 
+        margin-top: 9vw;
+        font-weight: normal;
+    }
+    .image-container {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+    }
+
+    .image-container img {
+        flex-direction: row;
+        width: 40%; /* Adjust the percentage as needed */
+        height: auto; /* Maintain the aspect ratio */
+        
+    }
+
+    .footer p5 {
+        font-size: 1.8vw;
+        font-weight: normal;
+    }
+}
+
+/* Styles for standard desktop screens up to 1440px */
+@media screen and (min-width: 1025px) and (max-width: 1440px) {
     .footer p5 {
         font-size: 2vw; 
+        font-weight: normal;
     }
-}
 
-@media  screen and (max-width: 2560px){
-    
+    .nav-links ul {
+        justify-content: flex-end;
+        font-size: 1vw;
+        font-weight: normal;
+    }
+
     .nav-links ul li a {
-        font-size: 3vw; 
-        padding: 2vw;
-      }
-
-      .hobbies-and-skills h1 {
-        font-size: 7vw; 
+        font-size: 2vw; 
+        padding: 1vw;
+        font-weight: normal;
     }
 
-    .hobbies-and-skills p{
-        font-size: 3.5vw;
+    .image-container {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
     }
 
-    .hobbies-and-skills p3 {
-        font-size: 3.5vw; 
-    }
+    .image-container img {
+        flex-direction: row;
+        width: 40%; /* Adjust the percentage as needed */
+        height: auto; /* Maintain the aspect ratio */
 
-    .hobbies-and-skills h3 {
-        font-size: 4vw; 
     }
-
-    .footer p5{
-        font-size: 2vw;
-    }
-   
 }

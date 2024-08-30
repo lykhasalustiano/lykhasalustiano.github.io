@@ -46,6 +46,7 @@ nav {
 .nav-links ul li {
     margin: 1vw;
     font-size: 1vw; 
+    font-weight: normal;
 }
 
 .nav-links ul li a {
@@ -53,6 +54,7 @@ nav {
     text-decoration: none;
     font-size: 3vw;
     padding: 1.5vw; 
+    font-weight: normal;
 }
 
 .footer {
@@ -61,6 +63,7 @@ nav {
     text-align: center; 
     color: white; 
     font-size: 3vw; 
+    font-weight: normal;
 }
 
 .icon {
@@ -74,7 +77,7 @@ nav {
 .icon i {
     font-size: 24px;
     margin-top: 10vw;
-    color: #990000; 
+    color: #ffffff; 
     text-align: center;
     flex-direction: column;
 }
@@ -96,10 +99,14 @@ nav {
     .footer p5{
         font-size: 2vw; 
     }
+    .nav-links ul {
+        justify-content: flex-end;
+        font-size: 1vw;
+    }
     .nav-links ul li a {
-        font-size: 3vw;
+        font-size: 3vw; 
         padding: 2vw;
-      }
+    }
       .icon i{
         font-size: 6vw;
     }  
@@ -117,11 +124,15 @@ nav {
     .footer p5{
         font-size: 2vw; 
     }
-    .nav-links ul li a {
-        font-size: 3vw;
-        padding: 2vw;
+    .nav-links ul {
+        justify-content: flex-end;
+        font-size: 1vw;
       }
-      .icon i{
+    .nav-links ul li a {
+        font-size: 3vw; 
+        padding: 2vw;
+    }
+    .icon i{
         font-size: 6vw;
     }  
 
@@ -130,10 +141,14 @@ nav {
 }
 }
 @media  screen and (max-width: 1080px){
+    .nav-links ul {
+        justify-content: flex-end;
+        font-size: 1vw;
+    }
     .nav-links ul li a {
         font-size: 3vw; 
         padding: 2vw;
-      }
+    }
 
     .icon i{
         font-size: 6vw;
@@ -147,18 +162,44 @@ nav {
 
 
 
-@media  screen and (max-width: 2560px){
+
+/* Styles for large desktop screens up to 2560px */
+@media screen and (min-width: 1441px) and (max-width: 2560px) {
     
     .nav-links ul li a {
-        font-size: 3vw; 
-        padding: 2vw;
-      }
+        font-size: 2vw; 
+        padding: 1vw;
+    }
 
-    .icon i{
-        font-size: 6vw;
+    .icon i {
+        font-size: 4vw;
     }  
 
-    .icon ul li a{
-        font-size: 3.5vw;   
+    .icon ul li a {
+        font-size: 1.8vw;   
+    }
+    .footer p5{
+        font-size: 1.6vw;
+    }
+}
+
+/* Styles for standard desktop screens up to 1440px */
+@media screen and (min-width: 1025px) and (max-width: 1440px) {
+    
+    .nav-links ul li a {
+        font-size: 2vw; /* Adjust this value as needed for smaller desktop screens */
+        padding: 1vw;
+    }
+
+    .icon i {
+        font-size: 4vw; /* Adjust this value as needed for smaller desktop screens */
     }  
+
+    .icon ul li a {
+        font-size: 1.8vw; /* Adjust this value as needed for smaller desktop screens */
+    }
+
+    .footer p5{
+        font-size: 1.6vw;
+    }
 }
