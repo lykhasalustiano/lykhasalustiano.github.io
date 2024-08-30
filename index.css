@@ -123,7 +123,7 @@
     }
   }
   
-  @media screen and (min-width: 768px) { 
+@media screen and (min-width: 768px) { 
     .header {
       min-height: 300vw;
     }
@@ -150,7 +150,7 @@
     }
   
     .text-box h2 {
-      font-size: 2vw; 
+      font-size: 3vw; 
     }
   
     .text-box p {
@@ -190,4 +190,28 @@
       margin-left: 0vw;
 
     }
+
+      .nav-links ul li a {
+        font-size: 3vw;
+        padding: 2vw;
+      }
+
+
   }
+
+@media screen and (max-width: 1440px) {
+    .port-image {
+      width: 100%; 
+      margin-left: 0vw;
+
+    }
+  }
+   
+@media screen and (max-width: 2560px) {
+  .port-image {
+    width: 100%; 
+    margin-left: 0vw;
+  }
+
+  
+}  

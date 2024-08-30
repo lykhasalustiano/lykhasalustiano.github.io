@@ -132,14 +132,12 @@ h3 {
         flex-direction: row; /* Imbis na column gawin molang row*/
         align-items: center;
     }
-
     .nav-links ul li a {
         font-size: 3vw;
         padding: 2vw;
       }
-
     .hobbies-and-skills h1 {
-        font-size: 8vw; 
+        font-size: 7vw; 
     }
 
     .hobbies-and-skills p{
@@ -150,8 +148,8 @@ h3 {
         font-size: 3.5vw; 
     }
 
-    h3 {
-        font-size: 6vw; 
+    .hobbies-and-skills h3 {
+        font-size: 4vw; 
     }
 
     .red-box {
@@ -173,18 +171,57 @@ h3 {
         padding: 2vw;
     }
 
+    .nav-links ul li a {
+        font-size: 3vw;
+        padding: 2vw;
+      }
+
     .footer p5 {
         font-size: 2vw; 
+    }
+
+    .hobbies-and-skills h1 {
+        font-size: 7vw; 
     }
 
     .hobbies-and-skills p{
         font-size: 3.5vw;
     }
 
-    .hobbies-and-skills p3{
+    .hobbies-and-skills p3 {
+        font-size: 3.5vw; 
+    }
+
+    .hobbies-and-skills h3 {
+        font-size: 4vw; 
+    }
+}
+
+@media  screen and (max-width: 2560px){
+    
+    .nav-links ul li a {
+        font-size: 3vw; 
+        padding: 2vw;
+      }
+
+      .hobbies-and-skills h1 {
+        font-size: 7vw; 
+    }
+
+    .hobbies-and-skills p{
         font-size: 3.5vw;
     }
 
+    .hobbies-and-skills p3 {
+        font-size: 3.5vw; 
+    }
 
+    .hobbies-and-skills h3 {
+        font-size: 4vw; 
+    }
+
+    .footer p5{
+        font-size: 2vw;
+    }
+   
 }
-

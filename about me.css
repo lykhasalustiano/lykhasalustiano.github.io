@@ -163,18 +163,54 @@ p5 {
 
 
 @media screen and (min-width: 425px) {
-    .footer p5 {
+    
+    .nav-links ul li a {
+        font-size: 3vw;
+        padding: 2vw;
+      }
+
+    .about-me h1 {
+        font-size: 7vw; 
+     }
+     
+    .about-me p{
+        font-size: 3.5vw;
+        line-height: 1.7;
+    }
+
+    .about-col h3{
+        font-size: 4vw;
+    }
+    
+    .about-col p{
+        font-size: 3.5vw;
+    }
+
+    .about-m h1{
+        font-size: 7vw; 
+    }
+
+    .about-m p {
+        font-size: 3.5vw;
+        line-height: 1.7;
+    }
+
+    .project-col p{
+        font-size: 3.5vw;
+    }
+
+    .project-col h3{
+        font-size: 4vw;
+    }
+
+    .row-m{
+        margin-top: 5%;
+        display: flex;
+        justify-content: space-between;
+    }
+
+      .footer p5 {
         font-size: 2vw; 
-    }
-
-    h3{
-        font-size: 6vw;
-    }
-
-    .image-container img {
-        width: 80vw; 
-        height: auto;
-        
     }
 
 }
@@ -184,13 +220,36 @@ p5 {
         flex-direction: row;
     }
 
-    h1 {
-        font-size: 8vw;
+    .about-me h1{
+        font-size: 7vw;
     }
 
-    p {
+    .about-me p{
         font-size: 3.5vw;
-        line-height: 1.7; 
+        line-height: 1.7;
+    }
+
+    .about-col h3{
+        font-size: 4vw;
+    }
+
+    .about-col p{
+        font-size: 3.5vw;
+        
+    }
+
+    .about-m h1{
+        font-size: 7vw; 
+    }
+    .about-m p {
+        font-size: 3.5vw;
+        line-height: 1.7;
+    }
+    .project-col h3{
+        font-size: 4vw;
+    }
+    .project-col p{
+        font-size: 3.5vw;
     }
 
     .about-col, .project-col {
@@ -203,56 +262,182 @@ p5 {
         font-size: 2vw; 
     
     }
-}
 
-@media screen and (max-width: 425px) {
+    .nav-links ul {
+        justify-content: flex-end;
+        font-size: 1vw;
+      }s
+    
+
     .nav-links ul li a {
         font-size: 3vw;
         padding: 2vw;
       }
+}
 
-      .footer p5 {
-        font-size: 2vw; 
+
+@media screen and (min-width:1080px ) {
+    
+    .about-me h1{
+        font-size: 7vw;
     }
-    @media screen and (min-width:1024px ) {
+    .about-me p{
+        font-size: 3.5vw;
+        line-height: 1.7;
+    }
+
+    .about-col h3{
+        font-size: 4vw;
+    }
+
+    .about-col p{
+        font-size: 3.5vw;
         
-        h1 {
-            font-size: 3vw; 
-        }
-    
-        .nav-links ul li a {
-            font-size: 16vw;
-            padding: 20vw;
-        }
-    
-        .about-me, .about-m {
-            width: 60%; 
-            margin-top: 10vh;
-        }
-    
-        .about-col, .project-col {
-            max-width: 25%;
-            margin: 1.5vw;
-        }
-    
-        .red-box {
-            padding: 1.5vw; 
-            border: 1vw solid #990000; 
-        }
-    
-        .row {
-            margin-top: 4vw;
-        }
-    
-        .footer {
-            font-size: 1.5vw; 
-        }
-    
-        .image-container img {
-            max-width: 60vw;
-        }
+    }
+    .about-m h1{
+        font-size: 7vw; 
+    }
+    .about-m p {
+        font-size: 3.5vw;
+        line-height: 1.7;
+    }
+    .project-col h3{
+        font-size: 4vw;
+    }
+    .project-col p{
+        font-size: 3.5vw;
+    }
+    .nav-links ul li a {
+        font-size: 3vw;
+        padding: 2vw;
     }
     
+    .red-box {
+        padding: 1.5vw; 
+        border: 1vw solid #990000; 
+    }
+    
+    .row {
+        margin-top: 4vw;
+    }
+    
+    .footer {
+        font-size: 1.5vw; 
+    }
+    
+    .image-container img {
+        max-width: 60vw;
+    
+    }
+}
+
+@media screen and (max-width:1440px){
+    .about-me h1 {
+        font-size: 7vw; 
+     }
+     
+    .about-me p{
+        font-size: 3.5vw;
+        line-height: 1.7;
+    }
+
+    .about-col h3{
+        font-size: 4vw;
+    }
+    
+    .about-col p{
+        font-size: 3.5vw; 
+    }
+    .about-m h1{
+        font-size: 7vw; 
+    }
+
+    .row{
+        margin-top: 5%;
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .about-m h1{
+        font-size: 7vw; 
+    }
+    .about-m p {
+        font-size: 3.5vw;
+        line-height: 1.7;
+    }
+
+
+        
+    .project-col p{
+        font-size: 3.5vw;
+    }
+
+    .project-col h3{
+        font-size: 4vw;
+    }
+
+    .row-m{
+        margin-top: 5%;
+        display: flex;
+        justify-content: space-between;
+    }
+}
+
+
+@media  screen and (max-width: 2560px){
+    
+    .nav-links ul li a {
+        font-size: 3vw; 
+        padding: 2vw;
+      }
 
     
+    .about-me h1 {
+        font-size: 7vw; 
+        margin-bottom: 2vw;
+     }
+     
+    .about-me p{
+        font-size: 3.5vw;
+        line-height: 1.7;
+    }
+
+    .about-col h3{
+        font-size: 4vw;
+    }
+    
+    .about-col p{
+        font-size: 3.5vw;
+       
+    }
+    .about-m h1{
+        font-size: 7vw; 
+        margin-bottom: 2vw;
+    }
+
+    .row{
+        margin-top: 5%;
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .about-m p {
+        font-size: 3.5vw;
+        line-height: 1.7;
+    }
+
+        
+    .project-col p{
+        font-size: 3.5vw;
+    }
+
+    .project-col h3{
+        font-size: 4vw;
+    }
+
+    .row-m{
+        margin-top: 5%;
+        display: flex;
+        justify-content: space-between;
+    }
 }
