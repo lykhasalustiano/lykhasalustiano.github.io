@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" class="scroll-smooth">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
@@ -8,52 +8,31 @@
   <script src="script.js"></script>
 </head>
 <body class="bg-[#111111] text-white min-h-screen font-sans">
+  
+ <section 
+    id="home"
+    class="w-full text-white">
 
-  <nav class="px-6 py-4 ">
-
-    <div class="flex items-center justify-between">
-      <!-- Burger Button -->
-      <button id="menu-btn" class="lg:hidden text-white text-2xl">
-        ☰
-      </button>
-
-      <!-- Desktop Menu -->
-      <div class="hidden lg:flex items-center gap-12">
-        <a href="#" class="text-white">Home</a>
-        <a href="#" class="text-gray-400 hover:text-white">Services</a>
-        <a href="#" class="text-gray-400 hover:text-white">About me</a>
-        <a href="#" class="text-gray-400 hover:text-white">Skills</a>
-        <a href="#" class="text-gray-400 hover:text-white">Portfolio</a>
-        <a href="#" class="text-gray-400 hover:text-white">Contact me</a>
+    <!-- NAVBAR -->
+  <nav class="px-6 py-4">
+    <div class="flex items-center justify-center">
+      <div class="flex items-center gap-12">
+        <a href="#home" class="text-white">Home</a>
+        <a href="#services" class="text-gray-400 hover:text-white">Services</a>
+        <a href="#about" class="text-gray-400 hover:text-white">About me</a>
+        <a href="#skills" class="text-gray-400 hover:text-white">Skills</a>
+        <a href="#portfolio" class="text-gray-400 hover:text-white">Portfolio</a>
+        <a href="#contact" class="text-gray-400 hover:text-white">Contact me</a>
 
         <button class="bg-white text-black px-6 py-2 rounded">
           Hire Me
         </button>
       </div>
-
     </div>
-
-    <!-- Mobile Menu -->
-    <div id="menu" class="hidden flex-col items-center mt-6 gap-4 lg:hidden">
-
-      <a href="#" class="text-white">Home</a>
-      <a href="#" class="text-gray-400">Services</a>
-      <a href="#" class="text-gray-400">About me</a>
-      <a href="#" class="text-gray-400">Skills</a>
-      <a href="#" class="text-gray-400">Portfolio</a>
-      <a href="#" class="text-gray-400">Contact me</a>
-
-      <button class="bg-white text-black px-6 py-2 rounded">
-        Hire Me
-      </button>
-
-    </div>
-
   </nav>
 
- <section class="flex items-center justify-between ml-[150px] mt-[60px]">
-
-    <!-- Left: Text Content -->
+  <div class="flex items-center justify-between px-[150px] mt-[60px]">
+     <!-- Left: Text Content -->
     <div class="flex flex-col max-w-lg mb-20">
 
       <!-- Greeting -->
@@ -108,9 +87,11 @@
         </div>
 
       <div class="flex items-center gap-4 mt-6">
-        <button class="bg-white text-black font-medium text-lg px-8 py-2.5 rounded hover:bg-gray-400 transition-colors">
+        <a
+           href="#contact" 
+           class="bg-white text-black font-medium text-lg px-8 py-2.5 rounded hover:bg-gray-400 transition-colors">
           Hire Me
-        </button>
+        </a>
         <button 
            onclick="window.location.href='files/New_Resume_salustiano.pdf'"
            class="bg-transparent text-white font-medium text-lg px-8 py-2.5 rounded border border-white hover:bg-white hover:text-black transition-all">
@@ -121,16 +102,19 @@
     </div>
 
     <!-- Right: Profile Image -->
-    <div class="w-[550px] h-[550px] mr-[100px] mb-20">
+    <div class="w-[550px] h-[550px] mb-20">
       <img
         src="https://res.cloudinary.com/deogcjil5/image/upload/q_auto/f_auto/v1775560309/Screenshot_2026-04-07_191137_voeioo.png"
         class="w-full h-full object-cover"
       />
     </div>
+  </div> 
 
   </section>
 
-  <section class="py-16 px-6 text-center">
+  <section
+     id="services" 
+     class="py-16 px-6 text-center">
     
     <!-- Title -->
     <h2 class="text-3xl font-semibold mb-2">Services</h2>
@@ -217,110 +201,245 @@
 
   </section>
 
-  <section class="text-white py-20 px-10">
+  <section
+     id="about" 
+     class="text-white py-20 px-10">
 
-  <!-- Title -->
-  <h2 class="text-3xl font-semibold text-center mb-16">About Me</h2>
+    <!-- Title -->
+    <h2 class="text-3xl font-semibold text-center mb-16">About Me</h2>
 
-  <!-- Container -->
-  <div class="flex flex-col lg:flex-row items-center justify-center max-w-6xl mx-auto gap-16">
+    <!-- Container -->
+    <div class="flex flex-col lg:flex-row items-center justify-center max-w-6xl mx-auto gap-16">
 
-    <!-- Image -->
-    <div class="w-[300px] h-[300px] lg:w-[450px] lg:h-[450px] rounded-full overflow-hidden flex-shrink-0 mb-20">
-      <img
-        src="https://res.cloudinary.com/deogcjil5/image/upload/q_auto/f_auto/v1775560309/Screenshot_2026-04-07_191137_voeioo.png"
-        alt="Profile"
-        class="w-full h-full object-cover"
-      />
-    </div>
+      <!-- Image -->
+      <div class="w-[300px] h-[300px] lg:w-[450px] lg:h-[450px] rounded-full overflow-hidden flex-shrink-0 mb-20">
+        <img
+          src="https://res.cloudinary.com/deogcjil5/image/upload/q_auto/f_auto/v1775560309/Screenshot_2026-04-07_191137_voeioo.png"
+          alt="Profile"
+          class="w-full h-full object-cover"
+        />
+      </div>
 
-    <!-- Text Content -->
-    <div class="max-w-[520px] text-gray-400 text-[15px] leading-8 text-justify space-y-6">
+      <!-- Text Content -->
+      <div class="max-w-[520px] text-gray-400 text-[15px] leading-8 text-justify space-y-6">
 
-      <p>
-       I have recently graduated with a Bachelor of Science degree in Computer Science from the College of Mary Immaculate. My education provided me with an excellent basis in the principles of computer science, but it did more than just that; it made me develop a great interest in the design aspect.
-      </p>
+        <p>
+        I have recently graduated with a Bachelor of Science degree in Computer Science from the College of Mary Immaculate. My education provided me with an excellent basis in the principles of computer science, but it did more than just that; it made me develop a great interest in the design aspect.
+        </p>
 
-      <p>
-       In the process of obtaining my degree, I conducted my On-the-Job Training at JCAS Logistics, which gave me the opportunity to put my theoretical knowledge into practice and gain practical experience. What is more interesting is that this experience turned out to be quite positive, and consequently, I was offered a part-time job there, which allowed me to combine working with studying. In such a way, I got the chance to familiarize myself with the operations in the logistics sphere and acquire experience as a working professional.
-      <p>
-        My skills include UI/UX Design, Figma, FlutterFlow Development, Balsamiq Wireframing, Prototyping, and UX Testing. When designing the interface of any product, I like creating clear and easily comprehensible designs for users.
-        Now I would like to advance in my career path and take the next step.
-      </p>
+        <p>
+        In the process of obtaining my degree, I conducted my On-the-Job Training at JCAS Logistics, which gave me the opportunity to put my theoretical knowledge into practice and gain practical experience. What is more interesting is that this experience turned out to be quite positive, and consequently, I was offered a part-time job there, which allowed me to combine working with studying. In such a way, I got the chance to familiarize myself with the operations in the logistics sphere and acquire experience as a working professional.
+        <p>
+          My skills include UI/UX Design, Figma, FlutterFlow Development, Balsamiq Wireframing, Prototyping, and UX Testing. When designing the interface of any product, I like creating clear and easily comprehensible designs for users.
+          Now I would like to advance in my career path and take the next step.
+        </p>
 
-      <!-- Button -->
-      <div>
-        <button 
-          onclick="window.location.href='files/New_Resume_salustiano.pdf'"
-          download
-          class="inline-block mt-4 bg-white text-black font-medium text-sm px-6 py-2 rounded hover:bg-gray-200 transition">
-          Download CV
-        </button>
+        <!-- Button -->
+        <div>
+          <button 
+            onclick="window.location.href='files/New_Resume_salustiano.pdf'"
+            download
+            class="inline-block mt-4 bg-white text-black font-medium text-sm px-6 py-2 rounded hover:bg-gray-200 transition">
+            Download CV
+          </button>
+        </div>
+
       </div>
 
     </div>
-
-  </div>
 
   </section>
 
-  <section class="w-full max-w-5xl px-6 mx-auto py-16 text-white">
+  <section
+     id="skills" 
+     class="w-full max-w-5xl px-6 mx-auto py-16 text-white">
   
   <!-- Title -->
-  <h1 class="text-center text-3xl font-semibold mb-12">Skills</h1>
+    <h1 class="text-center text-3xl font-semibold mb-12">Skills</h1>
 
-  <!-- Grid -->
-  <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+    <!-- Grid -->
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
 
-    <!-- Language -->
-    <div class="bg-zinc-900 p-3 rounded-2xl hover:bg-zinc-800 hover:scale-105 duration-300 text-center shadow-xl border border-zinc-800">
-      <h2 class="text-lg font-medium">Language</h2>
+      <!-- Language -->
+      <div class="bg-zinc-900 p-3 rounded-2xl hover:bg-zinc-800 hover:scale-105 duration-300 text-center shadow-xl border border-zinc-800">
+        <h2 class="text-lg font-medium">Language</h2>
 
-      <!-- icons -->
-      <div class="grid grid-cols-3 place-items-center">
-        <img src="https://res.cloudinary.com/deogcjil5/image/upload/q_auto/f_auto/v1775908928/HTML5_logo_and_wordmark.svg-removebg-preview_nu0wat.png" class="[90px] h-[90px] object-contain">
-        <img src="https://res.cloudinary.com/deogcjil5/image/upload/q_auto/f_auto/v1775907414/CSS3_Logo.PNG-removebg-preview_1_jjke8a.png" class="w-[105px] h-[105px] object-contain">
-        <img src="https://res.cloudinary.com/deogcjil5/image/upload/q_auto/f_auto/v1775907412/images-removebg-preview__1_-removebg-preview_atcnak.png" class="w-[105px] h-[105px] mt-2 mr-10 object-contain">
-        <img src="https://res.cloudinary.com/deogcjil5/image/upload/q_auto/f_auto/v1775907412/images__1_-removebg-preview_nfjvst.png" class="w-[105px] h-[105px] ml-[120px] object-contain">
-        <img src="https://res.cloudinary.com/deogcjil5/image/upload/q_auto/f_auto/v1775909108/images__5_-removebg-preview_kfzvtq.png" class="w-[80px] h-[80px] ml-[120px] object-contain">
+        <!-- icons -->
+        <div class="grid grid-cols-3 place-items-center">
+          <img src="https://res.cloudinary.com/deogcjil5/image/upload/q_auto/f_auto/v1775908928/HTML5_logo_and_wordmark.svg-removebg-preview_nu0wat.png" class="[90px] h-[90px] object-contain">
+          <img src="https://res.cloudinary.com/deogcjil5/image/upload/q_auto/f_auto/v1775907414/CSS3_Logo.PNG-removebg-preview_1_jjke8a.png" class="w-[105px] h-[105px] object-contain">
+          <img src="https://res.cloudinary.com/deogcjil5/image/upload/q_auto/f_auto/v1775907412/images-removebg-preview__1_-removebg-preview_atcnak.png" class="w-[105px] h-[105px] mt-2 mr-10 object-contain">
+          <img src="https://res.cloudinary.com/deogcjil5/image/upload/q_auto/f_auto/v1775907412/images__1_-removebg-preview_nfjvst.png" class="w-[105px] h-[105px] ml-[120px] object-contain">
+          <img src="https://res.cloudinary.com/deogcjil5/image/upload/q_auto/f_auto/v1775909108/images__5_-removebg-preview_kfzvtq.png" class="w-[80px] h-[80px] ml-[120px] object-contain">
+        </div>
       </div>
+
+      <!-- Tools -->
+      <div class="bg-zinc-900 p-3 rounded-2xl hover:bg-zinc-800 hover:scale-105 duration-300 text-center shadow-xl border border-zinc-800">
+        <h2 class="text-lg mb-3 font-medium">Tools</h2>
+
+        <div class="grid grid-cols-3 place-items-center">
+          <img src="https://res.cloudinary.com/deogcjil5/image/upload/q_auto/f_auto/v1775907412/The_GIMP_icon_-_gnome.svg-removebg-preview_svb2of.png" class="w-[105px] h-[105px] object-contain">
+          <img src="https://res.cloudinary.com/deogcjil5/image/upload/q_auto/f_auto/v1775907412/figma_logo-removebg-preview_durcnj.png" class="w-[105px] h-[105px] object-contain">
+          <img src="https://res.cloudinary.com/deogcjil5/image/upload/q_auto/f_auto/v1775907412/images__2_-removebg-preview_cljbel.png" class="w-[70px] h-[70px]   object-contain">
+          <img src="https://res.cloudinary.com/deogcjil5/image/upload/q_auto/f_auto/v1775909584/images__6_-removebg-preview_lqaysb.png" class="w-[70px] h-[70px] ml-[130px] object-contain">
+          <img src="https://res.cloudinary.com/deogcjil5/image/upload/q_auto/f_auto/v1775909616/dfb96cc174513093cd6ed61489ccb750_1_hyiwlc.svg" class="w-[70px] h-[70px] ml-[120px] object-contain">
+        </div>
+      </div>
+
+      <!-- Database -->
+      <div class="bg-zinc-900 p-8 rounded-2xl hover:bg-zinc-800 hover:scale-105 duration-300 text-center shadow-xl border border-zinc-800">
+        <h2 class="text-lg mb-6 font-medium">Database Management</h2>
+
+        <div class="flex justify-center items-center gap-12">
+          <img src="https://res.cloudinary.com/deogcjil5/image/upload/q_auto/f_auto/v1775909966/images__7_-removebg-preview_cmlwzf.png" class="w-[150px] h-[150px] object-contain">
+          <img src="https://res.cloudinary.com/deogcjil5/image/upload/q_auto/f_auto/v1775907411/channels4_profile-removebg-preview_hownff.png" class="w-[100px] h-[100px] object-contain">
+        </div>
+      </div>
+
+      <!-- AI Tools -->
+      <div class="bg-zinc-900 p-8 rounded-2xl hover:bg-zinc-800 hover:scale-105 duration-300 text-center shadow-xl border border-zinc-800">
+        <h2 class="text-lg mb-6 font-medium">AI Tools</h2>
+
+        <div class="flex justify-center items-center gap-12">
+          <img src="https://res.cloudinary.com/deogcjil5/image/upload/q_auto/f_auto/v1775907371/Screenshot_2026-04-11_193336-removebg-preview_ehpzfo.png" class="w-[80px] h-[80px] mt-6">
+          <img src="https://res.cloudinary.com/deogcjil5/image/upload/q_auto/f_auto/v1775907411/what-is-claude-ai-3528943545200277_l-removebg-preview_dkqd2b.png" class="w-[80px] h-[80px] mt-6 object-contain">
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <section
+     id="contact" 
+     class="w-full max-w-5xl mx-auto px-6 py-20 text-white">
+
+    <!-- Title -->
+    <h1 class="text-3xl font-semibold text-center mb-4">Contact me</h1>
+    <p class="text-center text-zinc-400 mb-12">
+      Cultivating Connections: Reach Out And Connect With Me
+    </p>
+
+    <!-- Form -->
+    <form class="grid grid-cols-1 md:grid-cols-2 gap-6">
+
+      <!-- Name -->
+      <input type="text" placeholder="Name"
+        class="bg-zinc-900 p-4 rounded-lg outline-none focus:ring-2 focus:ring-white/20" />
+
+      <!-- Email -->
+      <input type="email" placeholder="Email"
+        class="bg-zinc-900 p-4 rounded-lg outline-none focus:ring-2 focus:ring-white/20" />
+
+      <!-- Phone -->
+      <input type="text" placeholder="Phone Number"
+        class="bg-zinc-900 p-4 rounded-lg outline-none focus:ring-2 focus:ring-white/20" />
+
+      <!-- Service -->
+      <select
+        class="bg-zinc-900 p-4 rounded-lg text-zinc-400 outline-none focus:ring-2 focus:ring-white/20">
+        <option disabled selected>Service Of Interest</option>
+        <option>UI/UX Design</option>
+        <option>Web Development</option>
+        <option>Frontend Development</option>
+      </select>
+
+      <!-- Project Details -->
+      <textarea placeholder="Project Details..."
+        class="bg-zinc-900 p-4 rounded-lg h-40 resize-none outline-none focus:ring-2 focus:ring-white/20"></textarea>
+
+    </form>
+
+    <!-- Button -->
+    <div class="flex justify-end">
+      <button
+        class="border border-white px-8 py-3 rounded-lg hover:bg-white hover:text-black transition duration-300">
+        Send
+      </button>
     </div>
 
-    <!-- Tools -->
-    <div class="bg-zinc-900 p-3 rounded-2xl hover:bg-zinc-800 hover:scale-105 duration-300 text-center shadow-xl border border-zinc-800">
-      <h2 class="text-lg mb-3 font-medium">Tools</h2>
+  </section>
 
-      <div class="grid grid-cols-3 place-items-center">
-        <img src="https://res.cloudinary.com/deogcjil5/image/upload/q_auto/f_auto/v1775907412/The_GIMP_icon_-_gnome.svg-removebg-preview_svb2of.png" class="w-[105px] h-[105px] object-contain">
-        <img src="https://res.cloudinary.com/deogcjil5/image/upload/q_auto/f_auto/v1775907412/figma_logo-removebg-preview_durcnj.png" class="w-[105px] h-[105px] object-contain">
-        <img src="https://res.cloudinary.com/deogcjil5/image/upload/q_auto/f_auto/v1775907412/images__2_-removebg-preview_cljbel.png" class="w-[70px] h-[70px]   object-contain">
-        <img src="https://res.cloudinary.com/deogcjil5/image/upload/q_auto/f_auto/v1775909584/images__6_-removebg-preview_lqaysb.png" class="w-[70px] h-[70px] ml-[130px] object-contain">
-        <img src="https://res.cloudinary.com/deogcjil5/image/upload/q_auto/f_auto/v1775909616/dfb96cc174513093cd6ed61489ccb750_1_hyiwlc.svg" class="w-[70px] h-[70px] ml-[120px] object-contain">
-      </div>
+  <!-- Footer -->
+<footer class="bg-[#1a1a1a] py-10 px-6 flex flex-col items-center gap-6">
+
+  <!-- Nav Links -->
+  <nav class="flex items-center gap-8 flex-wrap justify-center">
+    <a href="#home" class="text-gray-300 hover:text-white text-sm transition-colors">Home</a>
+    <a href="#service" class="text-gray-300 hover:text-white text-sm transition-colors">Services</a>
+    <a href="#about" class="text-gray-300 hover:text-white text-sm transition-colors">About me</a>
+    <a href="#skills" class="text-gray-300 hover:text-white text-sm transition-colors">Skills</a>
+    <a href="#portfolio" class="text-gray-300 hover:text-white text-sm transition-colors">Portfolio</a>
+    <a href="#contact" class="text-gray-300 hover:text-white text-sm transition-colors">Contact me</a>
+  </nav>
+
+  <!-- Social Icons -->
+  <div class="flex items-center gap-3 mt-1">
+
+    <!-- Instagram -->
+    <a href="https://www.instagram.com/lykhasalustiano/" class="flex items-center justify-center w-[30px] h-[30px]">
+      <img
+        src="https://res.cloudinary.com/deogcjil5/image/upload/q_auto/f_auto/v1775993979/Screenshot_2026-04-07_195351-removebg-preview-removebg-preview_bzsuqq.png"
+        class="w-full h-full object-contain"
+      />
+    </a>
+
+    <!-- LinkedIn -->
+    <a href="https://www.linkedin.com/in/lykie-salustiano-58b424358/" class="flex items-center justify-center w-[30px] h-[30px]">
+      <img
+        src="https://res.cloudinary.com/deogcjil5/image/upload/q_auto/f_auto/v1775994110/Screenshot_2026-04-07_195354-removebg-preview-removebg-preview_1_cuwcve.png"
+        class="w-full h-full object-contain"
+      />
+    </a>
+
+    <!-- Github -->
+    <a href="https://github.com/lykhasalustiano" class="flex items-center justify-center w-[30px] h-[30px]">
+      <img
+        src="https://res.cloudinary.com/deogcjil5/image/upload/q_auto/f_auto/v1775994109/Screenshot_2026-04-07_195358-removebg-preview-removebg-preview_tl9zhh.png"
+        class="w-full h-full object-contain"
+      />
+    </a>
+
+    <!-- Email -->
+    <a href="https://mail.google.com/mail/u/0/#inbox" class="flex items-center justify-center w-[30px] h-[30px]">
+      <img
+        src="https://res.cloudinary.com/deogcjil5/image/upload/q_auto/f_auto/v1775994109/Screenshot_2026-04-07_195403-removebg-preview-removebg-preview_1_vgwcny.png"
+        class="w-full h-full object-contain"
+      />
+    </a>
+
+  </div>
+
+  <!-- Contact Info -->
+  <div class="flex items-center gap-8 flex-wrap justify-center">
+
+    <!-- Email -->
+    <div class="flex items-center gap-2">
+      <img
+        src="https://res.cloudinary.com/deogcjil5/image/upload/q_auto/f_auto/v1775992225/Screenshot_2026-04-12_190855-removebg-preview_s1ytwh.png"
+        class="w-5 h-5 object-contain"
+      />
+      <span class="text-gray-300 text-sm">lykhasalustiano@gmail.com</span>
     </div>
 
-    <!-- Database -->
-    <div class="bg-zinc-900 p-8 rounded-2xl hover:bg-zinc-800 hover:scale-105 duration-300 text-center shadow-xl border border-zinc-800">
-      <h2 class="text-lg mb-6 font-medium">Database Management</h2>
-
-      <div class="flex justify-center items-center gap-12">
-        <img src="https://res.cloudinary.com/deogcjil5/image/upload/q_auto/f_auto/v1775909966/images__7_-removebg-preview_cmlwzf.png" class="w-[150px] h-[150px] object-contain">
-        <img src="https://res.cloudinary.com/deogcjil5/image/upload/q_auto/f_auto/v1775907411/channels4_profile-removebg-preview_hownff.png" class="w-[100px] h-[100px] object-contain">
-      </div>
-    </div>
-
-    <!-- AI Tools -->
-    <div class="bg-zinc-900 p-8 rounded-2xl hover:bg-zinc-800 hover:scale-105 duration-300 text-center shadow-xl border border-zinc-800">
-      <h2 class="text-lg mb-6 font-medium">AI Tools</h2>
-
-      <div class="flex justify-center items-center gap-12">
-        <img src="https://res.cloudinary.com/deogcjil5/image/upload/q_auto/f_auto/v1775907371/Screenshot_2026-04-11_193336-removebg-preview_ehpzfo.png" class="w-[80px] h-[80px] mt-6">
-        <img src="https://res.cloudinary.com/deogcjil5/image/upload/q_auto/f_auto/v1775907411/what-is-claude-ai-3528943545200277_l-removebg-preview_dkqd2b.png" class="w-[80px] h-[80px] mt-6 object-contain">
-      </div>
+    <!-- Phone -->
+    <div class="flex items-center gap-2">
+      <img
+        src="https://res.cloudinary.com/deogcjil5/image/upload/q_auto/f_auto/v1775992225/Screenshot_2026-04-12_190902-removebg-preview_qdt62c.png"
+        class="w-5 h-5 object-contain"
+      />
+      <span class="text-gray-300 text-sm">+63 999 492 6970</span>
     </div>
 
   </div>
-</section>
+
+  <!-- Divider -->
+  <hr class="w-1/2 border-gray-600" />
+
+  <!-- Credit -->
+  <p class="text-gray-500 text-xs">Designed by @lykhasalustiano UI/UX designer</p>
+
+</footer>
 
 </body>
 </html>
